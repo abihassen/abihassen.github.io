@@ -1,25 +1,19 @@
 ---
 layout: default
 title: About Me
----
 
+---
 <img class="profile-picture" src="{{site.baseurl}}/{{site.profile-picture}}">
 
-I'm Dilbert. I've been working as a Software Engineer for over 30 years. I like to innovate to solve challenging problems using technology. I work with a great Engineering team, but we have a good-for-nothing and clueless manager, who can be replaced with a monkey and the change would be for the better.
+I am a political philosophy student, attorney, technologist, co-founder of the Black Movement-Law Project, a legal support rapid response group that grew out of the uprisings in Ferguson, Baltimore, and elsewhere. I am currently a partner at O’Neill and Hassen LLP, a law practice focused on indigent criminal defense. Prior to this current work, I was the Mass Defense Coordinator at the National Lawyers Guild. I have also worked as a political campaign manager and strategist, union organizer, and community organizer. I conducts trainings, speaks, and writes on topics of race, technology, (in)justice, and the law.
 
-On a personal front, I live with two amazing pets - Dogbert and Ratbert, and three dinasours - Bob, Rex and Dawn - who're hiding from the rest of the world. I'm single and have few friends due to my poor social skills, but I usually spend my time playing with computers and technology.
+### Favorite Quotes
 
-### Life Advice
-Here are a few things I've learned over the years,
-> An optimist is simply a pessimist with no job experience.
+> Mask no difficulties, mistakes, failures. Claim no easy victories” 
+>
+> ― Amilcar Cabral
 
-> All of your co-workers are fools. You must learn to pity and tolerate them.
+### Selected Media and Publications
 
-> There are very few problems that can't be solved through a suitable application of high explosives.
-
-### Publications
 1. Dilbert, Ratbert: "Effects of having a dog and a dinasaur in the same house", _Journal of Wierd Studies_
 2. Alice, Dilbert, Wally: "Efficient ways to deal with a dumb manager", _Conference of Frustrated Engineers_
-
-### Contact Me
-No thanks, I have enough problems of my own to deal with.
