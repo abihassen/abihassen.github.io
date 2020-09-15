@@ -7,7 +7,7 @@ baseurl: "/"
 
 footer_only_homepage: true
 footer_url: "https://abihassen.com"
-footer_text: "Abi Hassen 2020 /n Theme by pro-panda"
+footer_text: "Abi Hassen 2020 ... Theme by pro-panda"
 
 profile-picture: assets/profile.png
 favicon_location: assets/favicon.ico
@@ -20,5 +20,5 @@ sass:
 navbar:
  - name: "About"
    link: "about"
- - name: "Resume"
-   absolute-link: "https://pro-panda.github.io/resume.pdf"
+ - name: "CV"
+   link: "/assets/cv.pdf"
