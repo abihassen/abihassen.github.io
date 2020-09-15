@@ -10,7 +10,7 @@ footer_url: "https://abihassen.com"
 footer_text: "Abi Hassen 2020 ... Theme by pro-panda"
 
 profile-picture: assets/profile.png
-favicon_location: assets/favicon.ico
+favicon_location: assets/favicon.png
 
 permalink: /:year-:month-:day-:title/
 sass:
