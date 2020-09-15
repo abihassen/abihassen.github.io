@@ -1,11 +1,11 @@
-title: Website for Abi Hassen 
+title: Abi Hassen; Website
 author: abihassen
 subtitle: A place for public projects and general information
 
 url: "https://abihassen.github.io"
 baseurl: "/"
 
-footer_only_homepage: true
+footer_only_homepage: false
 footer_url: "https://abihassen.com"
 footer_text: "Abi Hassen 2020 ... Theme by pro-panda"
 
