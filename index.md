@@ -9,11 +9,15 @@ I am a political philosophy student, attorney, technologist, co-founder of the B
 
 ### Favorite Quotes
 
-> Mask no difficulties, mistakes, failures. Claim no easy victories” 
+> Mask no difficulties, mistakes, failures. Claim no easy victories
 >
 > ― Amilcar Cabral
 
+> To be a pessimist means that you have agreed that human life is an academic matter.
+>
+> — James Baldwin
+
 ### Selected Media and Publications
 
-1. Dilbert, Ratbert: "Effects of having a dog and a dinasaur in the same house", _Journal of Wierd Studies_
-2. Alice, Dilbert, Wally: "Efficient ways to deal with a dumb manager", _Conference of Frustrated Engineers_
+1. [The Left Should Direct the Impeachment Effort, _Truthout.org_](https://truthout.org/articles/the-left-should-direct-the-impeachment-effort/)
+2. [Mueller Investigation Will Set a Precedent — Make It a Good One, _Truthout.org_](https://truthout.org/articles/mueller-investigation-will-set-a-precedent-make-it-a-good-one/)
