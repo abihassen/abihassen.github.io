@@ -18,7 +18,7 @@ sass:
     sass_dir: css
 
 navbar:
- - name: "About"
-   link: "about"
+ - name: "Posts"
+   link: "posts"
  - name: "CV"
    link: "/assets/cv.pdf"
