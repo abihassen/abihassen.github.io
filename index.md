@@ -9,13 +9,17 @@ I am a political philosophy student, attorney, technologist, co-founder of the B
 
 ### Interesting Quotes
 
-> Mask no difficulties, mistakes, failures. Claim no easy victories
+> Tell no lies. Expose lies whenever they are told. Mask no difficulties, mistakes, failures. Claim no easy victories
 >
 > ― Amilcar Cabral
 
 > To be a pessimist means that you have agreed that human life is an academic matter.
 >
 > — James Baldwin
+
+> Racism, in other words, is neither attitude nor bigotry nor prejudice. It is an act, and it is a repetition of the act of racism that makes race looks like a real entity.
+>
+> — Barbara Fields
 
 ### Selected Media and Publications
 
