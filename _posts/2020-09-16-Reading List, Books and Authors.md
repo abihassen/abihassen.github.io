@@ -80,7 +80,7 @@ Books and readings
 * To hell and backlo9opioi
 * Spring summer fall winter spring
 * booksiiokki
-* julien benda boohoos; how Ioollollllpll?
+* julien benda
 * das kapital
 * Larissa Mann for senaya.
 * Cities or resistance?
