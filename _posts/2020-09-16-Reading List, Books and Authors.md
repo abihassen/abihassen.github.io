@@ -1,7 +1,8 @@
 ---
-layout: ''
-text: ''
-
+layout: post
+title: Or maybe Markdown
+subtitle: This post explains how you can write posts using Markdown.
+tags: [reading, markdown]
 ---
 Books and readings
 
