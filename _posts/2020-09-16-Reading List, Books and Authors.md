@@ -15,9 +15,6 @@ text: ''
 * Origins of Totalitarianism, The by Arendt, Hannah
 * Vindication of the Rights of Woman (A Feminist Masterpiece), A by Wollstonecraft, Mary
 * Complete Aristotle, The by Aristotle & Edghill, E. M. & Ross, W. D.
-* Constitution of the United States and the Declaration of Independence, The by Convention, Delegates Of The Constitutional
-* Constitution of the United States and the Declaration of Independence, The by Convention, Delegates Of The Constitutional
-* Communist Manifesto, The by Marx, Karl & Engels, Friedrich
 * Capital by Marx, Karl
 * Quotations from Chairman Mao Tse-tung by Book, The Little Red
 * Guide for the Perplexed, The by Maimonides, Moses & North, Wyatt
