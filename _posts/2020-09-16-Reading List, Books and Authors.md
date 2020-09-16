@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Reading List, Books and Authors.md
+title: Reading List, Books and Authors
 subtitle:
-tags: [reading, markdown]
+tags:
 ---
 Books and readings
 
