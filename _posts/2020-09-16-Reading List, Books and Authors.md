@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Or maybe Markdown
-subtitle: This post explains how you can write posts using Markdown.
+title: Reading List, Books and Authors.md
+subtitle:
 tags: [reading, markdown]
 ---
 Books and readings
