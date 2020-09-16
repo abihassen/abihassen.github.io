@@ -183,7 +183,6 @@ text: ''
 * This Week in Law (Audio)
 * This Week in Science – The Kickass Science Podcast
 * Topics
-* Tractatus Logico-Philosophicus by WITTGENSTEIN, Ludwig
 * Trillbilly Worker’s Party
 * TrueAnon
 * Trump, Inc.
