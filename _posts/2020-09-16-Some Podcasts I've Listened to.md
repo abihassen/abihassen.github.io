@@ -9,7 +9,7 @@ text: ''
 * A Podcast of Ice and Fire
 * Against the LAW
 * AM Quickie
-* Amicus With Dahlia Lithwick | Law, justice, and the courts
+* Amicus With Dahlia Lithwick Law, justice, and the courts
 * Analysis
 * Arguing History
 * Astronomy Cast
