@@ -14,3 +14,5 @@ fields:
     schema:
       format: markdown
   label: Text
+pages:
+- _posts/Some Podcasts I've Listened to.md
