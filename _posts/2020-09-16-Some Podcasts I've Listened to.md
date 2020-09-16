@@ -1,7 +1,8 @@
 ---
-layout: ''
-text: ''
-
+layout: post
+title: Some Podcasts I've Listened to.md
+subtitle:
+tags: [podcasts]
 ---
 A Podcast of Ice and Fire
 Against the LAW
