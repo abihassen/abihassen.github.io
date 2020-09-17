@@ -23,6 +23,10 @@ I am particularly interested in exploring the the nature of institutions, politi
 >
 > — Barbara Fields
 
+> _The most erroneous stories are those we think we know best – and therefore never scrutinize or question._
+>
+> — Stephen Jay Gould
+
 ### Selected Media and Publications
 
 * [Meet the EFA, Panel at HOPE 20, (video linked)](https://www.youtube.com/watch?v=XHSF9W70jOI)
