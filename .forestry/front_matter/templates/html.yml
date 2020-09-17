@@ -1,7 +1,12 @@
 ---
 label: HTML
-hide_body: false
+hide_body: true
 fields:
+- name: title
+  type: text
+  config:
+    required: true
+  label: Title
 - type: text
   name: layout
   label: layout
