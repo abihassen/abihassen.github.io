@@ -18,7 +18,7 @@ text: ''
 * Behind the News with Doug Henwood
 * Belabored by Dissent Magazine
 * Benjamen Walker’s Theory of Everything
-* Best Show Gems with Tom Scharpling | WFMU
+* Best Show Gems with Tom Scharpling
 * Beyond Prisons
 * Black Agenda Radio Commentaries
 * Black on Black Cinema
