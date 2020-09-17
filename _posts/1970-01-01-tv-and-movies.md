@@ -1,9 +1,8 @@
 ---
 layout: post
 title: TV and Movies
-subtitle: Recommended stuff that you mihgt not have seen or should re-watch
+subtitle: Stuff that you not have seen, is really great, and/or is worth a re-watching.
 tags: 
-text:
 ---
 ## TV
 
