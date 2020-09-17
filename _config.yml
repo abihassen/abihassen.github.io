@@ -3,7 +3,7 @@ author: abihassen
 subtitle: A place for public projects and general information
 
 
-
+footer_only_homepage:
 footer_url: "https://abihassen.com"
 footer_text: "Abi Hassen 2020 ... Theme by pro-panda"
 
@@ -16,6 +16,8 @@ sass:
     sass_dir: css
 
 navbar:
+ - name: "About"
+   link: "index"
  - name: "Posts"
    link: "posts"
  - name: "CV"
