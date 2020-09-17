@@ -1,10 +1,8 @@
 ---
 layout: post
-title: Some Podcasts I've Listened To
-subtitle: 
+title: Podcast List
+subtitle: Some podcasts I've listened to in alphabetical order
 tags: 
-text: ''
-
 ---
 * A Podcast of Ice and Fire
 * Against the LAW
