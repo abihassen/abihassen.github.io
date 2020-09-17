@@ -76,8 +76,9 @@ code {
     .title{
         max-width: 500px;
         color: #272727;
+	text-align: right
         display: inline-block;
-        font-size: 30px;
+        font-size: 20px;
     }
     .details{
         @extend .pull-right;
