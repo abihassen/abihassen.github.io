@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Reading List, Books and Authors
+title: Books and Authors
 subtitle: Some stuff I'm reading, have read, want to read, or should read.
 tags: 
 ---
