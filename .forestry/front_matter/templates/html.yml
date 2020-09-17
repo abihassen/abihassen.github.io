@@ -10,15 +10,6 @@ fields:
 - type: text
   name: layout
   label: layout
-- name: text
-  type: textarea
-  default: ''
-  config:
-    required: false
-    wysiwyg: false
-    schema:
-      format: markdown
-  label: Text
 pages:
 - _posts/2020-09-16-Reading List, Books and Authors.md
 - _posts/2020-09-16-Some Podcasts I've Listened to.md
