@@ -1,10 +1,8 @@
 ---
 layout: post
 title: Reading List, Books and Authors
-subtitle: 
+subtitle: Some stuff I'm reading, have read, want to read, or should read.
 tags: 
-text: ''
-
 ---
 * Evidence Matters: Science, Proof, and Truth in the Law by Haack, Susan
 * Black Skin, White Masks by Fanon, Frantz
