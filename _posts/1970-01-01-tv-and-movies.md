@@ -3,6 +3,7 @@ layout: post
 title: TV and Movies
 subtitle: Stuff that you might not have seen, is really great, and/or is worth a re-watching.
 tags: 
+
 ---
 ## TV
 
@@ -12,27 +13,29 @@ tags:
 * Jerk
 * Baskets
 * What We Do in the Shadows
+* The Boys
 * Atlanta
-* The Thick of it 
-* Adam Curtis (all)
-* Armando Ianucci (most)
-* Sharon Horgan (most)
+* The Thick of it
 * Pulling
 * Garth Marenghi's Darkplace
+* Brass Eye
+* Mr. Show
 * Dr Foster
 * Kath and Kim
 * Absolutely Fabulous
 * Top of the Lake
 * I'm Alan Partridge
-* Knowing Me Knowing You 
+* Knowing Me Knowing You
 * Taboo
 * The Boondocks
 * Beavis and Butthead
 
-## **Movies** 
+## **Movies**
 
 * The Lighthouse
+* Four Lions
 * In the loop
+* Dead Man
 * The Witch
 * The Lobster
 * A Serious Man
@@ -40,3 +43,10 @@ tags:
 * They Live
 * Repo Man
 * Robocop
+
+## **Creators**
+
+* Adam Curtis 
+* Armando Iannucci 
+* Sharon Horgan 
+* Chris Morris

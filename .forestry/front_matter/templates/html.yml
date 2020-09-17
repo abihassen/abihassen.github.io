@@ -1,16 +1,12 @@
 ---
-label: Post
-hide_body: false
+label: HTML
+hide_body: true
 fields:
 - name: title
   type: text
   config:
     required: true
   label: Title
-- type: subtitle
-  name: text
-  label: subtitle
-pages:
-- _posts/2020-09-16-Reading List, Books and Authors.md
-- _posts/2020-09-16-Some Podcasts I've Listened to.md
-- _posts/2020-09-17-tv-and-movies.md
+- type: text
+  name: layout
+  label: layout
