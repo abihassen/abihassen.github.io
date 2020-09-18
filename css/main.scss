@@ -76,9 +76,8 @@ code {
     .title{
         max-width: 500px;
         color: #272727;
-	//text-align: right
         display: inline-block;
-        font-size: 20px;
+        font-size: 40px;
     }
     .details{
         @extend .pull-right;
@@ -100,7 +99,7 @@ code {
 // pages
 
 .page-title{
-    text-align: center;
+    text-align: left;
     font-size: xx-large;
     font-weight: bold;
     line-height: 2;
