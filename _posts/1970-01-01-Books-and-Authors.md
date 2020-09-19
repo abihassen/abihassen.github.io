@@ -126,10 +126,9 @@ tags: lists
 * Maimonides, Moses & North, Wyatt — The Guide for the Perplexed
 * Malthus, T. R. — An Essay on the Principle of Population
 * Man, The Mismeasure of & Company) — \[Revised & Expanded\] Stephen Jay Gould
-* Marx, Karl — Capital
-* Marx, Karl — Capital
+* Marx, Karl — Capital: A Critique of Political Economy, Vol. 1
+* Marx, Karl — Capital: A Critique of Political Economy, Vol. 2
 * Marx, Karl — Capital: A Critique of Political Economy, Vol. 3
-* Marx, Karl — Capital: A Critique of Political Economy
 * Marx, Karl — Marx's Grundrisse
 * Marx, Karl & Engels, Friedrich — The Communist Manifesto
 * Maturana, H. R. & Varela, F. J. — Autopoiesis and Cognition: The Realization of the Living
