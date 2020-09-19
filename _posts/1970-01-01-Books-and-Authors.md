@@ -15,6 +15,8 @@ tags: lists
 * Aquinas, Thomas — Compendium Theologiae
 * Archer, Margaret & Bhaskar, Roy & Collier, Andrew & Lawson, Tony & Norrie, Alan — Critical Realism: Essential Readings
 * Arendt, Hannah — The Origins of Totalitarianism
+* Arendt, Hannah — Eichmann in Jerusalem: A Report on the Banality of Evil
+* Arendt, Hannah —  The Human Condition
 * Ariely, Dan — Predictably Irrational: The Hidden Forces That Shape Our Decisions
 * Aristotle — The Complete Aristotle
 * Augustine, Saint & Outler, Albert C. & Vessey, Mark — Confessions
