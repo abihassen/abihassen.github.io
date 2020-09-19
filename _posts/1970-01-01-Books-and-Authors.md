@@ -1,8 +1,10 @@
 ---
 layout: post
 title: Books and Authors
-subtitle: Some stuff I'm reading, have read, want to read, or should read. Happy to get recommendations.
+subtitle: Some stuff I'm reading, have read, want to read, or should read. Happy to
+  get recommendations.
 tags: lists
+
 ---
 * Evidence Matters: Science, Proof, and Truth in the Law by Haack, Susan
 * Black Skin, White Masks by Fanon, Frantz
@@ -99,7 +101,7 @@ tags: lists
 * Python for Data Analysis by Wes McKinney
 * Psychopolitics: Neoliberalism and New Technologies of Power by Han, Byung-Chul
 * In the Swarm: Digital Prospects by Han, Byung-Chul
-* Stafford Beer by Freedom, Designing
+* Freedom, Designing by Stafford Beer
 * Defence of History and Class Consciousness: Tailism and the Dialectic, A by Lukács, Georg & Lukacs, Georg & Zizek, Slovoj & Leslie, Esther & Rees, John & Zizek, Slavoj
 * Resistance and Decolonization by Cabral, Amilcar
 * Against the Grain: A Deep History of the Earliest States by libgen.lc
