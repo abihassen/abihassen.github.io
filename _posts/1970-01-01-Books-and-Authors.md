@@ -1,179 +1,187 @@
 ---
 layout: post
 title: Books and Authors
-subtitle: Some stuff I'm reading, have read, want to read, or should read. Happy to
-  get recommendations.
+subtitle: Some stuff I'm reading, have read, want to read, or should read in alphabetical
+  order. More than happy to get recommendations.
 tags: lists
 
 ---
-* Evidence Matters: Science, Proof, and Truth in the Law by Haack, Susan
-* Black Skin, White Masks by Fanon, Frantz
-* Toward the African Revolution by Fanon, Frantz
-* Wretched of the Earth, The by Fanon, Frantz & Philcox, Richard
-* Dying Colonialism, A by Fanon, Frantz
-* Compendium Theologiae by Aquinas, St. Thomas & Böer, Paul A. Sr. & J., Cyril Vollert S.
-* Origins of Totalitarianism, The by Arendt, Hannah
-* Vindication of the Rights of Woman (A Feminist Masterpiece), A by Wollstonecraft, Mary
-* Complete Aristotle, The by Aristotle & Edghill, E. M. & Ross, W. D.
-* Capital by Marx, Karl
-* Quotations from Chairman Mao Tse-tung by Book, The Little Red
-* Guide for the Perplexed, The by Maimonides, Moses & North, Wyatt
-* Prince, The by Machiavelli, Niccolò
-* Essay on the Principle of Population, An by Malthus, T. R.
-* Essay Concerning Humane Understanding: Volume 1 MDCXC, Based on the 2nd Edition, Books 1 and 2, An by Locke, John
-* Two Treatises of Government and a Letter Concerning Toleration by Locke, John
-* Tao Te Ching: A New Translation by Tzu, Lao & Hamill, Sam
-* Hegel's Phenomenology of Spirit: Selections by Hegel, Georg Wilhelm Friedrich & Kainz, Howard P.
-* Philosophy of Right by HEGEL, G. W. F. & Dyde, S. W.
-* Phenomenology of Mind, The by HEGEL, G. W. F.
-* Georg Wilhelm Friedrich Hegel: The Science of Logic by Hegel, Georg Wilhelm Fredrich & Giovanni, George Di
-* Critique of Judgement by Kant, Immanuel
-* Kant: Political Writings by Kant, Immanuel
-* Critique of Pure Reason by Kant, Immanuel
-* KANTIAN ETHICS: Metaphysics of Morals - Philosophy of Law & the Doctrine of Virtue, Perpetual Peace and the Critique of Practical Reason, The by Kant, Immanuel & Abbott, Thomas Kingsmill & Hastie, William
-* Collected Works of C.G. Jung, Volume 9 : Aion: Researches Into the Phenomenology of the Self by Jung, C. G. & Adler, Gerhard & McGuire, William & Read, Sir Herbert & Fordham, Michael & Hull, R. F. C.
-* Enquiry Concerning Human Understanding, An by Hume, David
-* Mein Kampf - the Official 1939 Edition by Hitler, Adolf
-* Man and His Symbols by Jung, C. G.
-* Philosophy of History, The by Hegel, Georg Wilhelm Friedrich
-* Enquiry Concerning Political Justice, An by Godwin, William & Philp, Mark
-* Civilization and Its Discontents by Freud, Sigmund
-* Discipline & Punish: The Birth of the Prison by Foucault, Michel & Sheridan, Alan
-* Order of Things, The by Foucault, Michel
-* Meditations on first philosophy by Descartes,René
-* Derrida, Jacques by Derrida, Jacques
-* Discourse on Method and Meditations by By René Descartes, Elizabeth Sanderson Haldane, G. R. T. Ross
-* Comments on the Society of the Spectacle by Debord, Guy
-* On the Origin of Species, 6th Edition + on the Tendency of Species to Form Varieties (The Original Scientific Text Leading to "On the Origin of Species") by Darwin, Charles
-* Guerrilla Warfare by Guevara, Ernesto Che
-* Presocratics Reader: Selected Fragments and Testimonia, A by Curd, Patricia & McKirahan, Richard D.
-* Delphi Complete Works of Julius Caesar by Caesar, Julius
-* Analects: With Selections From Traditional Commentaries by CONFUCIUS & Slingerland, Edward
-* Collected Works of Jeremy Bentham: An Introduction to the Principles of Morals and Legislation, The by Bentham, Jeremy
-* Novum Organum by Bacon, Francis
-* Confessions by Augustine, Saint & Outler, Albert C. & Vessey, Mark
-* Reflections on the Revolution in France by Burke, Edmund & Canavan, Francis
-* Practical Philosophy by Kant, Immanuel
-* Changing Conversations in Organizations: A Complexity Approach to Change by Shaw, Patricia
-* Applied Systems Theory by Dekkers, Rob
-* Complexity, Organizations and Change by McMillan, Elizabeth
-* No Shortcuts: Organizing for Power in the New Gilded Age by McAlevey, Jane F.
-* Raising Expectations (And Raising Hell): My Decade Fighting for the Labor Movement by McAlevey, Jane & Ostertag, Bob
-* Critical Realism: Essential Readings by Archer, Margaret & Bhaskar, Roy & Collier, Andrew & Lawson, Tony & Norrie, Alan
-* Buying Time: The Delayed Crisis of Democratic Capitalism by Streeck, Wolfgang & Camiller, Patrick & Fernbach, David
-* Dialectic: The Pulse of Freedom by Bhaskar, Roy
-* Guide to Systems Research: Philosophy, Processes and Practice, A by Edson, Mary C. & Henning, Pamela Buckle & Sankaran, Shankar
-* Understanding Capitalism by Chibber, Vivek - ABCs of Capitalism A
-* Capitalism & the State by Chibber, Vivek - ABCs of Capitalism B
-* Capitalism & Class Struggle by Chibber, Vivek - .ABCs of Capitalism C
-* Metatheory for the 21st Century: Critical Realism and Integral Theory in Dialogue by Bhaskar, Roy & Esbjrn-Hargens, Sean & Witt, Nicholas Hedlund-De
-* Reclaiming Reality : A Critical Introduction to Contemporary Philosophy by Bhaskar, Roy(Author)
-* Scientific Realism and Human Emancipation by Bhaskar, Roy
-* Interdisciplinarity and Climate Change: Transforming Knowledge and Practice for Our Global Future by Bhaskar, Roy & Frank, Cheryl & Høyer, Karl Georg & Naess, Petter & Parker, Jenneth
-* Realist Theory of Science, A by Bhaskar, Roy
-* Critical Realism: Essential Readings by Archer, Margaret & Bhaskar, Roy & Collier, Andrew & Lawson, Tony & Norrie, Alan
-* Critical Realism An Introduction to Roy Bh by Collier, Andrew
-* Law of Accumulation and Breakdown of the Capitalist System by Grossman, Henryk
-* Henryk Grossman and the Recovery of Marxism by Kuhn, Rick
-* Henryk Grossman Works, Volume 1: Essays and Letters on Economic Theory by Grossman, Henryk & Kuhn, Rick
-* Beyond Freedom and Dignity by Skinner, B. F.
-* offset.pdf by kevkrugh
-* Modern World-System I: Capitalist Agriculture and the Origins of the European World-Economy in the Sixteenth Century, The by Wallerstein, Immanuel
-* Modern World-System I: Capitalist Agriculture and the Origins of the European World-Economy in the Sixteenth Century. Studies in Social Discontinuity Series, The by Wallerstein, Immanuel Maurice
-* Mercantilism and the Consolidation of the European World-Economy, 1600-1750 by Wallerstein, Immanuel Maurice
-* Badges Without Borders: How Global Counterinsurgency Transformed American Policing by Schrader, Stuart
-* History of White People, The by Painter, Nell Irvin
-* Systems Thinking, Critical Realism and Philosophy: A Confluence of Ideas by Mingers, John
-* Enchantments of Mammon: How Capitalism Became the Religion of Modernity, The by McCarraher, Eugene
-* Practical Ethics by Singer, Peter
-* Introduction to Political Philosophy, An by Wolff,Jonathan
-* Political Theory : Methods and Approaches by Leopold, David.; Stears, Marc.
-* Absolute Recoil: Towards a New Foundation of Dialectical Materialism by Zizek, Slavoj
-* Theory of Justice, A by Rawls, John
-* Synchronization: A Universal Concept in Nonlinear Sciences by Pikovsky, Arkady & Rosenblum, Michael & Kurths, Jürgen
-* Marx: A Beginner's Guide by Collier, Andrew
-* Autopoiesis and Cognition: The Realization of the Living by Maturana, H. R. & Varela, F. J.
-* Scientific Ontology: Integrating Naturalized Metaphysics and Voluntarist Epistemology by Chakravartty, Anjan
-* \[Revised & Expanded\] Stephen Jay Gould by Man, The Mismeasure of & Company)
-* Naming and Necessity by Kripke, Saul A.
-* Emergence From Chaos to Order by Holland, John H.
-* Self-Producing Systems: Implications and Applications of Autopoiesis by Mingers, John
-* Python for Data Analysis by Wes McKinney
-* Psychopolitics: Neoliberalism and New Technologies of Power by Han, Byung-Chul
-* In the Swarm: Digital Prospects by Han, Byung-Chul
-* Freedom, Designing by Stafford Beer
-* Defence of History and Class Consciousness: Tailism and the Dialectic, A by Lukács, Georg & Lukacs, Georg & Zizek, Slovoj & Leslie, Esther & Rees, John & Zizek, Slavoj
-* Resistance and Decolonization by Cabral, Amilcar
-* Against the Grain: A Deep History of the Earliest States by libgen.lc
-* Complex Population Dynamics: A Theoretical/Empirical Synthesis (MPB-35) by Turchin, Peter
-* Historical Dynamics: Why States Rise and Fall by Turchin, Peter
-* Kropotkin: 'The Conquest of Bread' and Other Writings by Kropotkin, Peter
-* Radical Hamilton: Economic Lessons From a Misunderstood Founder by Parenti, Christian
-* Uncertainties of Knowledge, The by Wallerstein, Immanuel Maurice
-* On the Reproduction of Capitalism: Ideology and Ideological State Apparatuses by Althusser, Louis
-* Revolution in the Air: Sixties Radicals Turn to Lenin, Mao and Che by Elbaum, Max
-* Old Gods, New Enigmas: Marx’s Lost Theory by Davis, Mike
-* Groundings With My Brothers, The by Rodney, Walter
-* Origin of Wealth: Evolution, Complexity, and the Radical Remaking of Economics, The by Beinhocker, Eric
-* Capital by Marx, Karl
-* Capital: A Critique of Political Economy, Vol. 3 by Marx, Karl
-* Shadows of Doubt: Stereotypes, Crime, and the Pursuit of Justice by O'Flaherty, Brendan
-* Capital: A Critique of Political Economy by Marx, Karl
-* Emergent Strategy: Shaping Change, Changing Worlds by brown, adrienne maree
-* Information: A History, a Theory, a Flood, The by Gleick, James
-* Revolution in the Air: Sixties Radicals Turn to Lenin, Mao and Che by Elbaum, Max
-* Networkologies: A Philosophy of Networks for a Hyperconnected Age - a Manifesto by Vitale, Christopher
-* Karl Marx's Theory of History by Cohen, G. A.
-* Big Picture: On the Origins of Life, Meaning, and the Universe Itself, The by Carroll, Sean
-* What Is Philosophy? by Deleuze, Gilles & Guattari, Felix
-* Dialectic of Enlightenment by Adorno, Theodor W. & Horkheimer, Max
-* Weird Realism: by Harman, Graham
-* Object-Oriented Ontology: A New Theory of Everything by Harman, Graham
-* Darwin's Dangerous Idea: Evolution and the Meanings of Life by C., Daniel
-* Code of Capital, The by Pistor, Katharina
-* Curtis J. Milhaupt, Katharina Pistor by Law & Systems, Capitalism What Corporate Crises Reveal about Legal & World, Economic Development around the
-* Economy As An Evolving Complex System, The by Anderson, Philip W. & Arrow, Kenneth J. & Pines, David
-* Capital in the Twenty-First Century by Piketty, Thomas
-* Hyperobjects: Philosophy and Ecology After the End of the World by Morton, Timothy
-* From the Ruins of Empire: The Intellectuals Who Remade Asia by Mishra, Pankaj
-* Debt: The First 5,000 Years by Graeber, David
-* Third Reich in History and Memory, The by Evans, Richard J.
-* Democracy Incorporated: Managed Democracy and the Specter of Inverted Totalitarianism by Wolin, Sheldon S.
-* Politics and Vision: Continuity and Innovation in Western Political Thought - Expanded Edition by Wolin, Sheldon S.
-* Third Reich in Power, The by Evans, Richard J.
-* Capital and Ideology by Piketty, Thomas
-* Guns, Germs, and Steel: The Fates of Human Societies by Diamond, Jared
-* Coming of the Third Reich, The by Evans, Richard J.
-* Predictably Irrational: The Hidden Forces That Shape Our Decisions by Ariely, Dan
-* Justice for Hedgehogs by Dworkin, Ronald
-* Marx's Grundrisse by Marx, Karl
-* Structure of Scientific Revolutions: 50th Anniversary Edition, The by Kuhn, Thomas S.
-* Sovereign Virtue: The Theory and Practice of Equality by Dworkin, Ronald
-* Law's Empire by Dworkin, Ronald D & Dworkin, Ronald
-* God's Equation: Einstein, Relativity, and the Expanding Universe by Aczel, Amir D.
-* Age of Surveillance Capitalism, The by Zuboff, Shoshana
-* Digital Disconnect: How Capitalism Is Turning the Internet Against Democracy by McChesney, Robert W.
-* Labor of Dionysus: A Critique of the State-Form by Hardt, Michael & Negri, Antonio
-* Multitude: War and Democracy in the Age of Empire by Hardt, Michael & Negri, Antonio
-* Commonwealth by Hardt, Michael & Negri, Antonio
-* Empire by Hardt, Michael & Negri, Antonio
-* Late Victorian Holocausts: El Nino Famines and the Making of the Third World by Davis, Mike
-* Prisoners of the American Dream: Politics and Economy in the History of the US Working Class by Davis, Mike
-* Planet of Slums by Davis, Mike
-* Mutual Aid: A Factor in Evolution by Kropotkin, Peter
-* Class Notes: Posing as Politics and Other Thoughts on the American Scene by Reed, Adolph Jr.
-* Power, Autonomy, Utopia: New Approaches Toward Complex Systems by Trappl, R.
-* Brain of the Firm by Beer, Stafford
-* Feminist Theory From Margin to Center by Press, South End & Hooks, Bell
-* Black Marxism: The Making of the Black Radical Tradition by Robinson, Cedric J.
-* Essential Rosa Luxemburg: Reform or Revolution and the Mass Strike, The by Luxemburg, Rosa
-* Ain't I a Woman by Hooks, Bell
-* World-systems analysis : an introduction by Wallerstein, Immanuel Maurice, 1930-
-* Mathematical Theory of Communication, The by Shannon, Claude E.
-* Superior: The Return of Race Science by Saini, Angela
-* Claude E. Shannon: Collected Papers by Shannon, Claude Elwood & Wyner, A. D. & Sloane, Neil J. A.
-* For Marx by Althusser, Louis
-* Laws of Chaos: Probabilistic Approach to Political Economy by Farjoun, Emmanuel
-* \[Writings on Psychoanalysis: Freud and Lacan (European Perspectives: A Series in Social Thought and Cultural Criticism)\] \[Author: Althusser, Louis\] by Althusser, Louis
-* Gilles Deleuze, Felix Guattari by Capitalism, Anti-Oedipus & Press, Schizophrenia-Univ Of Minnesota
-* Eric J. Hobsbawm, David Forgacs by Press, The Antonio Gramsci Reader Selected Writings 1916-1935-NYU
+* Aczel, Amir D. — God's Equation: Einstein, Relativity, and the Expanding Universe
+* Adorno, Theodor W. & Horkheimer, Max — Dialectic of Enlightenment
+* Althusser, Louis — On the Reproduction of Capitalism: Ideology and Ideological State Apparatuses
+* Althusser, Louis — For Marx
+* Althusser, Louis — \[Writings on Psychoanalysis: Freud and Lacan (European Perspectives: A Series in Social Thought and Cultural Criticism)\] \[Author: Althusser, Louis\]
+* Anderson, Philip W. — The Economy As An Evolving Complex System
+* Aquinas, Thomas — Compendium Theologiae
+* Archer, Margaret & Bhaskar, Roy & Collier, Andrew & Lawson, Tony & Norrie, Alan — Critical Realism: Essential Readings
+* Arendt, Hannah — The Origins of Totalitarianism
+* Ariely, Dan — Predictably Irrational: The Hidden Forces That Shape Our Decisions
+* Aristotle — The Complete Aristotle
+* Augustine, Saint & Outler, Albert C. & Vessey, Mark — Confessions
+* Bacon, Francis — Novum Organum
+* Beer, Stafford — Brain of the Firm
+* Beinhocker, Eric — The Origin of Wealth: Evolution, Complexity, and the Radical Remaking of Economics
+* Bentham, Jeremy — The Collected Works of Jeremy Bentham: An Introduction to the Principles of Morals and Legislation
+* Bhaskar, Roy — Dialectic: The Pulse of Freedom
+* Bhaskar, Roy — Scientific Realism and Human Emancipation
+* Bhaskar, Roy — A Realist Theory of Science
+* Bhaskar, Roy & Esbjrn-Hargens, Sean & Witt, Nicholas Hedlund-De — Metatheory for the 21st Century: Critical Realism and Integral Theory in Dialogue
+* Bhaskar, Roy & Frank, Cheryl & Parker, Jenneth — Interdisciplinarity and Climate Change: Transforming Knowledge and Practice for Our Global Future
+* Bhaskar, Roy(Author) — Reclaiming Reality : A Critical Introduction to Contemporary Philosophy
+* Book, The Little Red — Quotations from Chairman Mao Tse-tung
+* brown, adrienne maree — Emergent Strategy: Shaping Change, Changing Worlds
+* Burke, Edmund — Reflections on the Revolution in France
+* By René Descartes, Elizabeth Sanderson Haldane, G. R. T. Ross — Discourse on Method and Meditations
+* Cabral, Amilcar — Resistance and Decolonization
+* Caesar, Julius — Delphi Complete Works of Julius Caesar
+* Carroll, Sean — The Big Picture: On the Origins of Life, Meaning, and the Universe Itself
+* Chakravartty, Anjan — Scientific Ontology: Integrating Naturalized Metaphysics and Voluntarist Epistemology
+* Chibber, Vivek — ABCs of Capitalism -A- Understanding Capitalism
+* Chibber, Vivek — ABCs of Capitalism -B- Capitalism & the State
+* Chibber, Vivek — ABCs of Capitalism -C- Capitalism & Class Struggle
+* Cohen, G. A. — Karl Marx's Theory of History
+* Collier, Andrew — Critical Realism An Introduction to Roy Bh
+* Collier, Andrew — Marx: A Beginner's Guide
+* CONFUCIUS & Slingerland, Edward — Analects: With Selections From Traditional Commentaries
+* Curd, Patricia & McKirahan, Richard D. — A Presocratics Reader: Selected Fragments and Testimonia
+* Darwin, Charles — On the Origin of Species, 6th Edition + on the Tendency of Species to Form Varieties (The Original Scientific Text Leading to "On the Origin of Species")
+* Davis, Mike — Old Gods, New Enigmas: Marx’s Lost Theory
+* Davis, Mike — Late Victorian Holocausts: El Nino Famines and the Making of the Third World
+* Davis, Mike — Prisoners of the American Dream: Politics and Economy in the History of the US Working Class
+* Davis, Mike — Planet of Slums
+* Debord, Guy — Comments on the Society of the Spectacle
+* Dekkers, Rob — Applied Systems Theory
+* Deleuze, Gilles & Guattari, Felix — Anti-Oedipus Capitalism & Schizophrenia-Univ Of Minnesota Press (1983)
+* Deleuze, Gilles & Guattari, Félix — What Is Philosophy?
+* Dennett, Daniel C. — Darwin's Dangerous Idea: Evolution and the Meanings of Life
+* Derrida, Jacques — Of Grammatology
+* Descartes,René — Meditations on first philosophy
+* Diamond, Jared — Guns, Germs, and Steel: The Fates of Human Societies
+* Dunbar-Ortiz, Roxanne — An Indigenous Peoples' History of the United States (2014, Beacon Press)
+* Dworkin, Ronald — Justice for Hedgehogs
+* Dworkin, Ronald — Sovereign Virtue: The Theory and Practice of Equality
+* Dworkin, Ronald D & Dworkin, Ronald — Law's Empire
+* Edson, Mary C. & Henning, Pamela Buckle & Sankaran, Shankar — A Guide to Systems Research: Philosophy, Processes and Practice
+* Elbaum, Max — Revolution in the Air: Sixties Radicals Turn to Lenin, Mao and Che
+* Elbaum, Max — Revolution in the Air: Sixties Radicals Turn to Lenin, Mao and Che
+* Evans, Richard J. — The Third Reich in History and Memory
+* Evans, Richard J. — The Third Reich in Power
+* Evans, Richard J. — The Coming of the Third Reich
+* Fanon, Frantz — Black Skin, White Masks
+* Fanon, Frantz — Toward the African Revolution
+* Fanon, Frantz — A Dying Colonialism
+* Fanon, Frantz & Philcox, Richard — The Wretched of the Earth
+* Farjoun, Emmanuel — Laws of Chaos: Probabilistic Approach to Political Economy
+* Foucault, Michel — Discipline & Punish: The Birth of the Prison
+* Foucault, Michel — The Order of Things
+* Freedom, Designing — Designing Freedom
+* Freud, Sigmund — Civilization and Its Discontents
+* Gleick, James — The Information: A History, a Theory, a Flood
+* Godwin, William — An Enquiry Concerning Political Justice
+* Graeber, David — Debt: The First 5,000 Years
+* Grossman, Henryk — Law of Accumulation and Breakdown of the Capitalist System
+* Grossman, Henryk — Henryk Grossman Works, Volume 1: Essays and Letters on Economic Theory
+* Guevara, Ernesto & Loveman, Brian & Davies, Thomas M. — Guerrilla Warfare
+* Haack, Susan — Evidence Matters: Science, Proof, and Truth in the Law
+* Han, Byung-Chul — Psychopolitics: Neoliberalism and New Technologies of Power
+* Han, Byung-Chul — In the Swarm: Digital Prospects
+* Hardt, Michael & Negri, Antonio — Labor of Dionysus: A Critique of the State-Form
+* Hardt, Michael & Negri, Antonio — Multitude: War and Democracy in the Age of Empire
+* Hardt, Michael & Negri, Antonio — Commonwealth
+* Hardt, Michael & Negri, Antonio — Empire
+* Harman, Graham — Weird Realism:
+* Harman, Graham — Object-Oriented Ontology: A New Theory of Everything
+* HEGEL, G. W. F. — The Phenomenology of Mind
+* HEGEL, G. W. F. & Dyde, S. W. — Philosophy of Right
+* Hegel, Georg Wilhelm Fredrich — Georg Wilhelm Friedrich Hegel: The Science of Logic
+* Hegel, Georg Wilhelm Friedrich — Hegel's Phenomenology of Spirit: Selections
+* Hegel, Georg Wilhelm Friedrich & Sibree, J. — The Philosophy of History
+* Hitler, Adolf — Mein Kampf - the Official 1939 Edition
+* Hobsbawm, Eric J. & Forgacs, David — The Antonio Gramsci Reader Selected Writings 1916-1935-NYU Press (2000)
+* Holland, John — Emergence From Chaos to Order
+* Hooks, Bell — Ain't I a Woman
+* Hume, David — An Enquiry Concerning Human Understanding
+* John, Locke — An Essay Concerning Humane Understanding: Volume 1 MDCXC, Based on the 2nd Edition, Books 1 and 2
+* Jung, C. G. — Collected Works of C.G. Jung, Volume 9 : Aion: Researches Into the Phenomenology of the Self
+* Jung, C. G. — Man and His Symbols
+* Kant, Immanuel — Critique of Judgement
+* Kant, Immanuel — Kant: Political Writings
+* Kant, Immanuel — Critique of Pure Reason
+* Kant, Immanuel — Practical Philosophy
+* Kant, Immanuel & Abbott, Thomas Kingsmill & Hastie, William — The KANTIAN ETHICS: Metaphysics of Morals - Philosophy of Law & the Doctrine of Virtue, Perpetual Peace and the Critique of Practical Reason
+* kevkrugh — offset.pdf
+* Kripke, Saul A. — Naming and Necessity
+* Kropotkin, Peter — Mutual Aid: A Factor in Evolution
+* Kropotkin, Peter & Kropotkin, Pëtr Alekseevič & Peter, Kropotkin — Kropotkin: 'The Conquest of Bread' and Other Writings
+* Kuhn, Rick — Henryk Grossman and the Recovery of Marxism
+* Kuhn, Thomas S. — The Structure of Scientific Revolutions: 50th Anniversary Edition
+* Law & Systems, Capitalism What Corporate Crises Reveal about Legal & World, Economic Development around the — Curtis J. Milhaupt, Katharina Pistor
+* Leopold, David.; Stears, Marc. — Political Theory : Methods and Approaches
+* libgen.lc — Against the Grain: A Deep History of the Earliest States
+* Locke, John & Popple, William — Two Treatises of Government and a Letter Concerning Toleration
+* Lukács, Georg & Lukács, György & Rees, John & Žižek, Slavoj — A Defence of History and Class Consciousness: Tailism and the Dialectic
+* Luxemburg, Rosa — The Essential Rosa Luxemburg: Reform or Revolution and the Mass Strike
+* Machiavelli, Niccolò & Bondanella, Peter — The Prince
+* Maimonides, Moses & North, Wyatt — The Guide for the Perplexed
+* Malthus, T. R. — An Essay on the Principle of Population
+* Man, The Mismeasure of & Company) — \[Revised & Expanded\] Stephen Jay Gould
+* Marx, Karl — Capital
+* Marx, Karl — Capital
+* Marx, Karl — Capital: A Critique of Political Economy, Vol. 3
+* Marx, Karl — Capital: A Critique of Political Economy
+* Marx, Karl — Marx's Grundrisse
+* Marx, Karl & Engels, Friedrich — The Communist Manifesto
+* Maturana, H. R. & Varela, F. J. — Autopoiesis and Cognition: The Realization of the Living
+* McAlevey, Jane & Ostertag, Bob — Raising Expectations (And Raising Hell): My Decade Fighting for the Labor Movement
+* McAlevey, Jane F. — No Shortcuts: Organizing for Power in the New Gilded Age
+* McCarraher, Eugene — The Enchantments of Mammon: How Capitalism Became the Religion of Modernity
+* McChesney, Robert W. — Digital Disconnect: How Capitalism Is Turning the Internet Against Democracy
+* McMillan, Elizabeth — Complexity, Organizations and Change
+* Mingers, John — Systems Thinking, Critical Realism and Philosophy: A Confluence of Ideas
+* Mingers, John — Self-Producing Systems: Implications and Applications of Autopoiesis
+* Mishra, Pankaj — From the Ruins of Empire: The Intellectuals Who Remade Asia
+* Morton, Timothy — Hyperobjects: Philosophy and Ecology After the End of the World
+* O'Flaherty, Brendan — Shadows of Doubt: Stereotypes, Crime, and the Pursuit of Justice
+* Of, Delegates & Convention, Delegates Of The Constitutional — The Constitution of the United States and the Declaration of Independence
+* Of, Delegates & Convention, Delegates Of The Constitutional — The Constitution of the United States and the Declaration of Independence
+* Painter, Nell Irvin — The History of White People
+* Parenti, Christian — Radical Hamilton: Economic Lessons From a Misunderstood Founder
+* Piketty, Thomas — Capital in the Twenty-First Century
+* Piketty, Thomas — Capital and Ideology
+* Pikovsky, Arkady & Rosenblum, Michael & Kurths, Jürgen — Synchronization: A Universal Concept in Nonlinear Sciences
+* Pistor, Katharina — The Code of Capital
+* Press, South End & Hooks, Bell — Feminist Theory From Margin to Center
+* Rawls, John & 20000710rawls, John & Rawls, Professor John — A Theory of Justice
+* Reardon, Jenny — The Postgenomic Condition: Ethics, Justice, and Knowledge after the Genome
+* Reed, Adolph L. — Class Notes: Posing as Politics and Other Thoughts on the American Scene
+* Robinson, Cedric J. — Black Marxism: The Making of the Black Radical Tradition
+* Rodney, Walter — The Groundings With My Brothers
+* Saini, Angela — Superior: The Return of Race Science
+* Schember, John — Calibre Quick Start Guide
+* Schrader, Stuart — Badges Without Borders: How Global Counterinsurgency Transformed American Policing
+* Shannon, Claude E & Weaver, Warren — The Mathematical Theory of Communication
+* Shaw, Patricia — Changing Conversations in Organizations: A Complexity Approach to Change
+* Singer, Peter — Practical Ethics
+* Skinner, B. F. — Beyond Freedom and Dignity
+* SPINOZA, BENEDICT DE — A Spinoza Reader The Ethics & Other Works-Princeton University Press (1994)
+* SPINOZA, BENEDICT DE & ISRAEL, JONATHAN — BENEDICT DE SPINOZA: Theological-Political Treatise
+* Streeck, Wolfgang — Buying Time: The Delayed Crisis of Democratic Capitalism
+* Trappl, R. — Power, Autonomy, Utopia: New Approaches Toward Complex Systems
+* Turchin, Peter — Complex Population Dynamics: A Theoretical/Empirical Synthesis (MPB-35)
+* Turchin, Peter — Historical Dynamics: Why States Rise and Fall
+* Tzu, Lao & Hamill, Sam — Tao Te Ching: A New Translation
+* Vitale, Christopher — Networkologies: A Philosophy of Networks for a Hyperconnected Age - a Manifesto
+* Vitek, Bill & Jackson, Wes — The Virtues of Ignorance; Complexity, Sustainability & the Limits of Knowledge
+* Wallerstein, Immanuel — The Modern World-System I: Capitalist Agriculture and the Origins of the European World-Economy in the Sixteenth Century
+* Wallerstein, Immanuel Maurice — The Modern World-System I: Capitalist Agriculture and the Origins of the European World-Economy in the Sixteenth Century. Studies in Social Discontinuity Series
+* Wallerstein, Immanuel Maurice — Mercantilism and the Consolidation of the European World-Economy, 1600-1750
+* Wallerstein, Immanuel Maurice — The Uncertainties of Knowledge
+* Wallerstein, Immanuel Maurice, 1930- — World-systems analysis : an introduction
+* Weber, Ernst & Shannon, Claude Elwood & Nebeker, Frederik — Claude E. Shannon: Collected Papers
+* Wes McKinney — Python for Data Analysis
+* Wolff,Jonathan — An Introduction to Political Philosophy
+* Wolin, Sheldon S. — Democracy Incorporated: Managed Democracy and the Specter of Inverted Totalitarianism
+* Wolin, Sheldon S. — Politics and Vision: Continuity and Innovation in Western Political Thought - Expanded Edition
+* Wollstonecraft, Mary — A Vindication of the Rights of Woman (A Feminist Masterpiece)
+* Zizek, Slavoj — Absolute Recoil: Towards a New Foundation of Dialectical Materialism
+* Zuboff, Shoshana — The Age of Surveillance Capitalism
