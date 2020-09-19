@@ -65,7 +65,6 @@ tags: lists
 * Dworkin, Ronald D & Dworkin, Ronald — Law's Empire
 * Edson, Mary C. & Henning, Pamela Buckle & Sankaran, Shankar — A Guide to Systems Research: Philosophy, Processes and Practice
 * Elbaum, Max — Revolution in the Air: Sixties Radicals Turn to Lenin, Mao and Che
-* Elbaum, Max — Revolution in the Air: Sixties Radicals Turn to Lenin, Mao and Che
 * Evans, Richard J. — The Third Reich in History and Memory
 * Evans, Richard J. — The Third Reich in Power
 * Evans, Richard J. — The Coming of the Third Reich
