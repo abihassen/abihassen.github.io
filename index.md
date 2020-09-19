@@ -7,7 +7,7 @@ title: About Me
 
 I am a political philosophy student, attorney, technologist, co-founder of the Black Movement-Law Project, a legal support rapid response group that grew out of the uprisings in Ferguson, Baltimore, and elsewhere. I am currently a partner at O’Neill and Hassen LLP, a law practice focused on indigent criminal defense. Prior to this current work, I was the Mass Defense Coordinator at the National Lawyers Guild. I have also worked as a political campaign manager and strategist, union organizer, and community organizer. I conducts trainings, speaks, and writes on topics of race, technology, (in)justice, and the law.
 
-I am particularly interested in exploring the the nature of institutions, political movements, and their interactions from the perspective of complex systems theory.
+I am particularly interested in exploring the the dynamic nature of institutions, political movements, and their interactions from the perspective of complex systems theory.
 
 ### Interesting Quotes
 
