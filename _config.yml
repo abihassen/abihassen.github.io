@@ -2,8 +2,8 @@ title: Abi Hassen; Website
 author: abihassen
 subtitle: A place for public projects and general information
 
-twitter: abihassen
-footer_text: "Abi Hassen 2020 ... Theme by pro-panda"
+footer_url: https://github.com/abihassen/abihassen.github.io.git
+footer_text: "Abi Hassen 2020 ... forked from parchment by pro-panda"
 
 profile-picture: assets/profilep.png
 favicon_location: assets/favicon.png
