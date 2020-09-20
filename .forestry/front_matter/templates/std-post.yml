@@ -16,3 +16,4 @@ fields:
   label: tags
 pages:
 - CV.md
+- _posts/cv.md
