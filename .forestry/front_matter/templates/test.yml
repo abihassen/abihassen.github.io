@@ -1,4 +1,9 @@
 ---
-label: test
+label: CVpage
 hide_body: false
-fields: []
+fields:
+- name: cv
+  type: file
+  config:
+    maxSize: 64
+  label: CV
