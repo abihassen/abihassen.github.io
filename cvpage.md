@@ -1,4 +1,0 @@
----
-cv: "/assets/cv.pdf"
-
----
