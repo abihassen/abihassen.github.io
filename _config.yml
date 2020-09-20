@@ -19,4 +19,4 @@ navbar:
  - name: "Posts"
    link: "posts"
  - name: "CV"
-   link: "/assets/cv.pdf"
+   link: "cv"
