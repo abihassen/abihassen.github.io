@@ -5,13 +5,17 @@ A clean, single column blog template built for jekyll
 * Clone the repository
 * Run `bundle install`
 * Run `bundle exec jekyll serve`
-* Visit browser at `http://127.0.0.1:4000/parchment/`
+* Visit browser at `http://127.0.0.1:4000/`
 
 ## Usage
+* easy way to set up a free site for yourself using github and cloudflare. I followed a mix of the following:
+[freecodecamp](https://www.freecodecamp.org/news/an-illustrated-guide-for-setting-up-your-website-using-github-cloudflare-5a7a11ca9465/)
+[Landon Patmore](https://www.codementor.io/@landonpatmore/how-to-setup-a-static-website-using-github-pages-and-cloudflare-with-your-own-domain-name-jb99nbuoe)
+[Sam Dutton](https://medium.com/@samdutton/github-pages-cloudflare-custom-domain-checklist-e86c786194a4)
 
 * To use this as your GitHub Page, fork this repository, and
   rename it to `<username>.github.io`. Your site will be live
-  at `https://<username>.github.io/parchment-jekyll`.
+  at `https://<username>.github.io/`.
 
 * You can customise variables in `_config.yml` and `css/*` files.
 
@@ -25,12 +29,10 @@ A clean, single column blog template built for jekyll
 * To add a profile picture, use class `profile-picture` around
   the image.
 
-## Contributing
-Pull requests are welcome. For major changes, please open an
-issue first to discuss what you would like to change.
+* My setup on a mac using Std user without Homebrew or Macports:install xcode, [add your user to sudo](https://stuntcoders.com/add-user-to-sudoers-on-mac-os-x/), clone the repo, follow  instructions from above. [Also using atom](https://atom.io) which is great for this.
 
 ## Credits
-Parchment is inspired from the resume theme
+Forked rom [Parchment](https://github.com/pro-panda/parchment) by pro-panda which was inspired from the resume theme
 [Researcher](https://github.com/ankitsultana/researcher)
 
 ## License
