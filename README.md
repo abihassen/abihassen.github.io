@@ -1,4 +1,4 @@
-# Parchment
+# Basic Personal Website
 A clean, single column blog template built for jekyll
 
 ## Building Locally
