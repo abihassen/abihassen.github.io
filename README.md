@@ -9,9 +9,9 @@ A clean, single column blog template built for jekyll
 
 ## Usage
 * easy way to set up a free site for yourself using github and cloudflare. I followed a mix of the following:
-[freecodecamp](https://www.freecodecamp.org/news/an-illustrated-guide-for-setting-up-your-website-using-github-cloudflare-5a7a11ca9465/)
-[Landon Patmore](https://www.codementor.io/@landonpatmore/how-to-setup-a-static-website-using-github-pages-and-cloudflare-with-your-own-domain-name-jb99nbuoe)
-[Sam Dutton](https://medium.com/@samdutton/github-pages-cloudflare-custom-domain-checklist-e86c786194a4)
+1. [freecodecamp](https://www.freecodecamp.org/news/an-illustrated-guide-for-setting-up-your-website-using-github-cloudflare-5a7a11ca9465/)
+2. [Landon Patmore](https://www.codementor.io/@landonpatmore/how-to-setup-a-static-website-using-github-pages-and-cloudflare-with-your-own-domain-name-jb99nbuoe)
+3. [Sam Dutton](https://medium.com/@samdutton/github-pages-cloudflare-custom-domain-checklist-e86c786194a4)
 
 * To use this as your GitHub Page, fork this repository, and
   rename it to `<username>.github.io`. Your site will be live
