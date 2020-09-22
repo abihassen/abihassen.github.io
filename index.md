@@ -9,6 +9,8 @@ I am a political philosophy student, attorney, technologist, co-founder of the B
 
 I am particularly interested in exploring the the dynamic nature of institutions, political movements, and their interactions from the perspective of complex systems theory.
 
+[Downloadable Bio Here](https://docs.google.com/document/d/1u09CCKJB4Et4aWsmdw_G-HCut_2xIWmmk3LCCXXOxWo/export?format=pdf)
+
 ### Some Quotes I Find Insightful
 
 > Tell no lies. Expose lies whenever they are told. Mask no difficulties, mistakes, failures. Claim no easy victories
