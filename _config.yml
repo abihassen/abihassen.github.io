@@ -6,7 +6,7 @@ footer_url: "https://github.com/abihassen/abihassen.github.io"
 footer_text: "Abi Hassen 2020 ... theme forked from pro-panda"
 
 profile-picture: assets/profile.png
-favicon_location: assets/favicon.png
+favicon_location: assets/favicon.ico
 bio-picture: assets/abihassen.jpg
 
 permalink: /:year-:month-:day-:title/
