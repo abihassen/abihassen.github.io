@@ -54,9 +54,12 @@ tags: lists
 * Tai Chi Master
 * Dr. Strangelove
 
-## **Creators**
+## **Completist Creators**
 
 * Adam Curtis
 * Armando Iannucci
 * Sharon Horgan
 * Chris Morris
+* Coen Brothers
+* Paul Verhoven
+* Jane Campion
