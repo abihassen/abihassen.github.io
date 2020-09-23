@@ -28,12 +28,13 @@ tags: lists
 * Taboo
 * The Boondocks
 * Beavis and Butthead
+* The Americans
 
 ## **Movies**
 
 * The Lighthouse
 * Four Lions
-* In the loop
+* In the Loop
 * Dead Man
 * The Witch
 * The Lobster
@@ -45,7 +46,7 @@ tags: lists
 
 ## **Creators**
 
-* Adam Curtis 
-* Armando Iannucci 
-* Sharon Horgan 
+* Adam Curtis
+* Armando Iannucci
+* Sharon Horgan
 * Chris Morris
