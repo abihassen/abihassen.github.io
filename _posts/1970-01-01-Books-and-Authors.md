@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Books and Authors
-subtitle: Some stuff I'm reading, have read, want to read, or should read in alphabetical
+subtitle: Some stuff I'm reading, have read recently and like, want to read, or should read in alphabetical
   order. More than happy to get recommendations.
 tags: lists
 
