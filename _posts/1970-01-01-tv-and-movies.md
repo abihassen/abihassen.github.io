@@ -33,12 +33,14 @@ tags: lists
 ## **Movies**
 
 * The Lighthouse
+* Between Two Ferns: The Movie
 * Four Lions
 * In the Loop
 * Dead Man
 * The Witch
 * The Lobster
 * A Serious Man
+* Raising Arizona
 * The Hudsucker Proxy
 * They Live
 * Repo Man
