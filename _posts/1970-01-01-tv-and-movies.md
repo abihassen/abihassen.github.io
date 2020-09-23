@@ -3,6 +3,7 @@ layout: post
 title: TV and Movies
 subtitle: Stuff that you might not have seen, is really great, and/or is worth a re-watching.
 tags: lists
+
 ---
 ## TV
 
@@ -46,6 +47,12 @@ tags: lists
 * They Live
 * Repo Man
 * Robocop
+* The Master
+* In the Mood for Love
+* Sonatine
+* Ed Wood
+* Tai Chi Master
+* Dr. Strangelove
 
 ## **Creators**
 
