@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Books and Authors
-subtitle: Some stuff I'm reading, have read recently and like, want to read, or should read in alphabetical
-  order. More than happy to get recommendations.
+subtitle: Some stuff I'm reading, have read recently and like, want to read, or should
+  read in alphabetical order. More than happy to get recommendations.
 tags: lists
 
 ---
@@ -178,7 +178,6 @@ tags: lists
 * Wallerstein, Immanuel Maurice — The Uncertainties of Knowledge
 * Wallerstein, Immanuel Maurice, 1930- — World-systems analysis : an introduction
 * Weber, Ernst & Shannon, Claude Elwood & Nebeker, Frederik — Claude E. Shannon: Collected Papers
-* Wes McKinney — Python for Data Analysis
 * Wolff,Jonathan — An Introduction to Political Philosophy
 * Wolin, Sheldon S. — Democracy Incorporated: Managed Democracy and the Specter of Inverted Totalitarianism
 * Wolin, Sheldon S. — Politics and Vision: Continuity and Innovation in Western Political Thought - Expanded Edition
