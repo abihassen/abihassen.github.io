@@ -63,7 +63,7 @@ tags: lists
 * Dunbar-Ortiz, Roxanne — An Indigenous Peoples' History of the United States (2014, Beacon Press)
 * Dworkin, Ronald — Justice for Hedgehogs
 * Dworkin, Ronald — Sovereign Virtue: The Theory and Practice of Equality
-* Dworkin, Ronald D & Dworkin, Ronald — Law's Empire
+* Dworkin, Ronald — Law's Empire
 * Edson, Mary C. & Henning, Pamela Buckle & Sankaran, Shankar — A Guide to Systems Research: Philosophy, Processes and Practice
 * Elbaum, Max — Revolution in the Air: Sixties Radicals Turn to Lenin, Mao and Che
 * Ellsberg, Daniel — The Doomsday Machine
