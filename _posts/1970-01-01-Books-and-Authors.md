@@ -170,6 +170,7 @@ tags: lists
 * SPINOZA, BENEDICT DE — A Spinoza Reader The Ethics & Other Works-Princeton University Press (1994)
 * SPINOZA, BENEDICT DE & ISRAEL, JONATHAN — BENEDICT DE SPINOZA: Theological-Political Treatise
 * Streeck, Wolfgang — Buying Time: The Delayed Crisis of Democratic Capitalism
+* Sunkara, Bhaskar — The Socialist Manifesto: The Case for Radical Politics in an Era of Extreme Inequality
 * Trappl, R. — Power, Autonomy, Utopia: New Approaches Toward Complex Systems
 * Turchin, Peter — Complex Population Dynamics: A Theoretical/Empirical Synthesis (MPB-35)
 * Turchin, Peter — Historical Dynamics: Why States Rise and Fall
