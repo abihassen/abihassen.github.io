@@ -185,7 +185,6 @@ tags: lists
 * Vitale, Christopher — Networkologies: A Philosophy of Networks for a Hyperconnected Age - a Manifesto
 * Vitek, Bill & Jackson, Wes — The Virtues of Ignorance; Complexity, Sustainability & the Limits of Knowledge
 * Wallerstein, Immanuel — The Modern World-System I: Capitalist Agriculture and the Origins of the European World-Economy in the Sixteenth Century
-* Wallerstein, Immanuel Maurice — The Modern World-System I: Capitalist Agriculture and the Origins of the European World-Economy in the Sixteenth Century.
 * Wallerstein, Immanuel Maurice — Mercantilism and the Consolidation of the European World-Economy, 1600-1750
 * Wallerstein, Immanuel Maurice — The Uncertainties of Knowledge
 * Wallerstein, Immanuel Maurice — World-systems analysis : an introduction
