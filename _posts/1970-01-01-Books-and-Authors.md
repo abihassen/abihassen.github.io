@@ -100,7 +100,8 @@ tags: lists
 * Hitler, Adolf — Mein Kampf - the Official 1939 Edition
 * Hobsbawm, Eric J. & Forgacs, David — The Antonio Gramsci Reader Selected Writings 1916-1935-NYU Press (2000)
 * Holland, John — Emergence From Chaos to Order
-* Hooks, Bell — Ain't I a Woman
+* hooks, bell — Ain't I a Woman
+* hooks, bell — Feminist Theory From Margin to Center
 * Hume, David — An Enquiry Concerning Human Understanding
 * James, C.L.R — The Black Jacobins: Toussaint L'Ouverture and the San Domingo Revolution
 * John, Locke — An Essay Concerning Humane Understanding: Volume 1 MDCXC, Based on the 2nd Edition, Books 1 and 2
@@ -151,7 +152,6 @@ tags: lists
 * Piketty, Thomas — Capital and Ideology
 * Pikovsky, Arkady & Rosenblum, Michael & Kurths, Jürgen — Synchronization: A Universal Concept in Nonlinear Sciences
 * Pistor, Katharina — The Code of Capital
-* hooks, bell — Feminist Theory From Margin to Center
 * Rawls, John & 20000710rawls, John & Rawls, Professor John — A Theory of Justice
 * Reardon, Jenny — The Postgenomic Condition: Ethics, Justice, and Knowledge after the Genome
 * Reed, Adolph L. — Class Notes: Posing as Politics and Other Thoughts on the American Scene
