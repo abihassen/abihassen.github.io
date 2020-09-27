@@ -196,5 +196,6 @@ tags: lists
 * Wolin, Sheldon S. — Politics and Vision: Continuity and Innovation in Western Political Thought - Expanded Edition
 * Wollstonecraft, Mary — A Vindication of the Rights of Woman (A Feminist Masterpiece)
 * Wu, Tim — The Attention Merchants: The Epic Scramble to Get Inside Our Heads
+* Wu, Tim — The Master Switch: The Rise and Fall of Information Empires
 * Zizek, Slavoj — Absolute Recoil: Towards a New Foundation of Dialectical Materialism
 * Zuboff, Shoshana — The Age of Surveillance Capitalism
