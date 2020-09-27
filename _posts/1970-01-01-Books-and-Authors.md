@@ -104,6 +104,7 @@ tags: lists
 * Holland, John — Emergence From Chaos to Order
 * hooks, bell — Ain't I a Woman
 * hooks, bell — Feminist Theory From Margin to Center
+* Horne, Gerald — The Counter-Revolution of 1776: Slave Resistance and the Origins of the United States of America
 * Hume, David — An Enquiry Concerning Human Understanding
 * James, C.L.R — The Black Jacobins: Toussaint L'Ouverture and the San Domingo Revolution
 * John, Locke — An Essay Concerning Humane Understanding: Volume 1 MDCXC, Based on the 2nd Edition, Books 1 and 2
