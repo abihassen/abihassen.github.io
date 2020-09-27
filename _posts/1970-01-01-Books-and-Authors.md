@@ -79,6 +79,7 @@ tags: lists
 * Freud, Sigmund — Civilization and Its Discontents
 * Gleick, James — The Information: A History, a Theory, a Flood
 * Godwin, William — An Enquiry Concerning Political Justice
+* Gould, Stephen Jay — The Mismeasure of Man
 * Graeber, David — Debt: The First 5,000 Years
 * Grossman, Henryk — Law of Accumulation and Breakdown of the Capitalist System
 * Grossman, Henryk — Henryk Grossman Works, Volume 1: Essays and Letters on Economic Theory
@@ -127,7 +128,7 @@ tags: lists
 * Machiavelli, Niccolò & Bondanella, Peter — The Prince
 * Maimonides, Moses & North, Wyatt — The Guide for the Perplexed
 * Malthus, T. R. — An Essay on the Principle of Population
-* Man, The Mismeasure of & Company) — \[Revised & Expanded\] Stephen Jay Gould
+* Mandelbrot, Benoit — The Misbehavior of Markets: A Fractal View of Financial Turbulence
 * Marx, Karl — Capital: A Critique of Political Economy, Vol. 1
 * Marx, Karl — Capital: A Critique of Political Economy, Vol. 2
 * Marx, Karl — Capital: A Critique of Political Economy, Vol. 3
@@ -142,6 +143,7 @@ tags: lists
 * Mingers, John — Systems Thinking, Critical Realism and Philosophy: A Confluence of Ideas
 * Mingers, John — Self-Producing Systems: Implications and Applications of Autopoiesis
 * Mishra, Pankaj — From the Ruins of Empire: The Intellectuals Who Remade Asia
+* Morgan, Edmund S. — American Slavery, American Freedom
 * Morton, Timothy — Hyperobjects: Philosophy and Ecology After the End of the World
 * O'Flaherty, Brendan — Shadows of Doubt: Stereotypes, Crime, and the Pursuit of Justice
 * Of, Delegates & Convention, Delegates Of The Constitutional — The Constitution of the United States and the Declaration of Independence
