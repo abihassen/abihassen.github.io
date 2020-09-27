@@ -174,6 +174,7 @@ tags: lists
 * Turchin, Peter — Complex Population Dynamics: A Theoretical/Empirical Synthesis (MPB-35)
 * Turchin, Peter — Historical Dynamics: Why States Rise and Fall
 * Tzu, Lao & Hamill, Sam — Tao Te Ching: A New Translation
+* Vitale, Alex S. — The End of Policing
 * Vitale, Christopher — Networkologies: A Philosophy of Networks for a Hyperconnected Age - a Manifesto
 * Vitek, Bill & Jackson, Wes — The Virtues of Ignorance; Complexity, Sustainability & the Limits of Knowledge
 * Wallerstein, Immanuel — The Modern World-System I: Capitalist Agriculture and the Origins of the European World-Economy in the Sixteenth Century
