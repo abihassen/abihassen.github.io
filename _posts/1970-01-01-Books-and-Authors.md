@@ -181,6 +181,7 @@ tags: lists
 * Wallerstein, Immanuel Maurice — The Uncertainties of Knowledge
 * Wallerstein, Immanuel Maurice, 1930- — World-systems analysis : an introduction
 * Weber, Ernst & Shannon, Claude Elwood & Nebeker, Frederik — Claude E. Shannon: Collected Papers
+* Williams, Chancellor — Destruction of Black Civilization: Great Issues of a Race from 4500 B.C. to 2000 A.D.
 * Wolff,Jonathan — An Introduction to Political Philosophy
 * Wolin, Sheldon S. — Democracy Incorporated: Managed Democracy and the Specter of Inverted Totalitarianism
 * Wolin, Sheldon S. — Politics and Vision: Continuity and Innovation in Western Political Thought - Expanded Edition
