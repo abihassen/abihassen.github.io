@@ -10,7 +10,7 @@ tags: lists
 * Adorno, Theodor W. & Horkheimer, Max — Dialectic of Enlightenment
 * Althusser, Louis — On the Reproduction of Capitalism: Ideology and Ideological State Apparatuses
 * Althusser, Louis — For Marx
-* Althusser, Louis — \[Writings on Psychoanalysis: Freud and Lacan (European Perspectives: A Series in Social Thought and Cultural Criticism)\] \[Author: Althusser, Louis\]
+* Althusser, Louis — \[Writings on Psychoanalysis: Freud and Lacan (European Perspectives: A Series in Social Thought and Cultural Criticism)\]
 * Anderson, Philip W. — The Economy As An Evolving Complex System
 * Aquinas, Thomas — Compendium Theologiae
 * Archer, Margaret & Bhaskar, Roy & Collier, Andrew & Lawson, Tony & Norrie, Alan — Critical Realism: Essential Readings
