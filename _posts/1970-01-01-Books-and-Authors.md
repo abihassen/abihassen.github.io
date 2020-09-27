@@ -90,6 +90,7 @@ tags: lists
 * Grossman, Henryk — Henryk Grossman Works, Volume 1: Essays and Letters on Economic Theory
 * Guevara, Ernesto & Loveman, Brian & Davies, Thomas M. — Guerrilla Warfare
 * Haack, Susan — Evidence Matters: Science, Proof, and Truth in the Law
+* Hägglund, Martin — This Life: Secular Faith and Spiritual Freedom
 * Han, Byung-Chul — Psychopolitics: Neoliberalism and New Technologies of Power
 * Han, Byung-Chul — In the Swarm: Digital Prospects
 * Hardt, Michael & Negri, Antonio — Labor of Dionysus: A Critique of the State-Form
