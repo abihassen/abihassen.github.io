@@ -161,7 +161,7 @@ tags: lists
 * Piketty, Thomas — Capital and Ideology
 * Pikovsky, Arkady & Rosenblum, Michael & Kurths, Jürgen — Synchronization: A Universal Concept in Nonlinear Sciences
 * Pistor, Katharina — The Code of Capital
-* Rawls, John & 20000710rawls, John & Rawls, Professor John — A Theory of Justice
+* Rawls, John — A Theory of Justice
 * Reardon, Jenny — The Postgenomic Condition: Ethics, Justice, and Knowledge after the Genome
 * Reed, Adolph L. — Class Notes: Posing as Politics and Other Thoughts on the American Scene
 * Robinson, Cedric J. — Black Marxism: The Making of the Black Radical Tradition
