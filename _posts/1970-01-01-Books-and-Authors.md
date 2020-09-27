@@ -102,6 +102,7 @@ tags: lists
 * Holland, John — Emergence From Chaos to Order
 * Hooks, Bell — Ain't I a Woman
 * Hume, David — An Enquiry Concerning Human Understanding
+* James, C.L.R — The Black Jacobins: Toussaint L'Ouverture and the San Domingo Revolution
 * John, Locke — An Essay Concerning Humane Understanding: Volume 1 MDCXC, Based on the 2nd Edition, Books 1 and 2
 * Jung, C. G. — Collected Works of C.G. Jung, Volume 9 : Aion: Researches Into the Phenomenology of the Self
 * Jung, C. G. — Man and His Symbols
