@@ -142,6 +142,7 @@ tags: lists
 * Marx, Karl — Marx's Grundrisse
 * Marx, Karl & Engels, Friedrich — The Communist Manifesto
 * Maturana, H. R. & Varela, F. J. — Autopoiesis and Cognition: The Realization of the Living
+* Mason, Paul — PostCapitalism: A Guide to Our Future
 * McAlevey, Jane & Ostertag, Bob — Raising Expectations (And Raising Hell): My Decade Fighting for the Labor Movement
 * McAlevey, Jane F. — No Shortcuts: Organizing for Power in the New Gilded Age
 * McCarraher, Eugene — The Enchantments of Mammon: How Capitalism Became the Religion of Modernity
