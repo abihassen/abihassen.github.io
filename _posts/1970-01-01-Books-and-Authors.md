@@ -8,9 +8,11 @@ tags: lists
 ---
 * Aczel, Amir D. — God's Equation: Einstein, Relativity, and the Expanding Universe
 * Adorno, Theodor W. & Horkheimer, Max — Dialectic of Enlightenment
+* Altemeyer, Bob — The Authoritarians
 * Althusser, Louis — On the Reproduction of Capitalism: Ideology and Ideological State Apparatuses
 * Althusser, Louis — For Marx
 * Althusser, Louis — \[Writings on Psychoanalysis: Freud and Lacan (European Perspectives: A Series in Social Thought and Cultural Criticism)\]
+* Anderson, Carol — White Rage: The Unspoken Truth of Our Racial Divide 
 * Anderson, Philip W. — The Economy As An Evolving Complex System
 * Aquinas, Thomas — Compendium Theologiae
 * Archer, Margaret & Bhaskar, Roy & Collier, Andrew & Lawson, Tony & Norrie, Alan — Critical Realism: Essential Readings
@@ -100,7 +102,7 @@ tags: lists
 * Hegel, Georg Wilhelm Fredrich — Georg Wilhelm Friedrich Hegel: The Science of Logic
 * Hegel, Georg Wilhelm Friedrich — Hegel's Phenomenology of Spirit: Selections
 * Hegel, Georg Wilhelm Friedrich & Sibree, J. — The Philosophy of History
-* Hitler, Adolf — Mein Kampf - the Official 1939 Edition
+* Hidalgo, César — Why Information Grows: The Evolution of Order, from Atoms to Economies
 * Hobsbawm, Eric J. & Forgacs, David — The Antonio Gramsci Reader Selected Writings 1916-1935-NYU Press (2000)
 * Holland, John — Emergence From Chaos to Order
 * hooks, bell — Ain't I a Woman
@@ -153,6 +155,7 @@ tags: lists
 * Of, Delegates & Convention, Delegates Of The Constitutional — The Constitution of the United States and the Declaration of Independence
 * Painter, Nell Irvin — The History of White People
 * Parenti, Christian — Radical Hamilton: Economic Lessons From a Misunderstood Founder
+* Perlstein, Rick — The Invisible Bridge: The Fall of Nixon and the Rise of Reagan
 * Piketty, Thomas — Capital in the Twenty-First Century
 * Piketty, Thomas — Capital and Ideology
 * Pikovsky, Arkady & Rosenblum, Michael & Kurths, Jürgen — Synchronization: A Universal Concept in Nonlinear Sciences
@@ -186,10 +189,12 @@ tags: lists
 * Wallerstein, Immanuel Maurice — The Uncertainties of Knowledge
 * Wallerstein, Immanuel Maurice, 1930- — World-systems analysis : an introduction
 * Weber, Ernst & Shannon, Claude Elwood & Nebeker, Frederik — Claude E. Shannon: Collected Papers
+* West, Geoffrey — Scale: The Universal Laws of Growth, Innovation, Sustainability, and the Pace of Life, in Organisms, Cities, Economies, and Companies
 * Williams, Chancellor — Destruction of Black Civilization: Great Issues of a Race from 4500 B.C. to 2000 A.D.
 * Wolff,Jonathan — An Introduction to Political Philosophy
 * Wolin, Sheldon S. — Democracy Incorporated: Managed Democracy and the Specter of Inverted Totalitarianism
 * Wolin, Sheldon S. — Politics and Vision: Continuity and Innovation in Western Political Thought - Expanded Edition
 * Wollstonecraft, Mary — A Vindication of the Rights of Woman (A Feminist Masterpiece)
+* Wu, Tim — The Attention Merchants: The Epic Scramble to Get Inside Our Heads
 * Zizek, Slavoj — Absolute Recoil: Towards a New Foundation of Dialectical Materialism
 * Zuboff, Shoshana — The Age of Surveillance Capitalism
