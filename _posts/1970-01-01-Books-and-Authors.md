@@ -30,6 +30,7 @@ tags: lists
 * Bhaskar, Roy & Esbjrn-Hargens, Sean & Witt, Nicholas Hedlund-De — Metatheory for the 21st Century: Critical Realism and Integral Theory in Dialogue
 * Bhaskar, Roy & Frank, Cheryl & Parker, Jenneth — Interdisciplinarity and Climate Change: Transforming Knowledge and Practice for Our Global Future
 * Bhaskar, Roy(Author) — Reclaiming Reality : A Critical Introduction to Contemporary Philosophy
+* Blumenthal, Max — The Management of Savagery: How America's National Security State Fueled the Rise of Al Qaeda, ISIS, and Donald Trump
 * Book, The Little Red — Quotations from Chairman Mao Tse-tung
 * brown, adrienne maree — Emergent Strategy: Shaping Change, Changing Worlds
 * Burke, Edmund — Reflections on the Revolution in France
