@@ -110,7 +110,7 @@ tags: lists
 * Kant, Immanuel — Critique of Pure Reason
 * Kant, Immanuel — Practical Philosophy
 * Kant, Immanuel & Abbott, Thomas Kingsmill & Hastie, William — The KANTIAN ETHICS: Metaphysics of Morals - Philosophy of Law & the Doctrine of Virtue, Perpetual Peace and the Critique of Practical Reason
-* kevkrugh — offset.pdf
+* King, Martin Luther — Where Do We Go from Here: Chaos or Community?
 * Kripke, Saul A. — Naming and Necessity
 * Kropotkin, Peter — Mutual Aid: A Factor in Evolution
 * Kropotkin, Peter & Kropotkin, Pëtr Alekseevič & Peter, Kropotkin — Kropotkin: 'The Conquest of Bread' and Other Writings
