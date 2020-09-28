@@ -22,6 +22,7 @@ tags: lists
 * Ariely, Dan — Predictably Irrational: The Hidden Forces That Shape Our Decisions
 * Aristotle — The Complete Aristotle
 * Augustine, Saint & Outler, Albert C. & Vessey, Mark — Confessions
+* Bacevich, Andrew — The Age of Illusions: How America Squandered Its Cold War Victory
 * Bacevich, Andrew — America's War for the Greater Middle East
 * Bacon, Francis — Novum Organum
 * Beer, Stafford — Brain of the Firm
