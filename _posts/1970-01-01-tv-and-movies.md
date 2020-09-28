@@ -1,7 +1,8 @@
 ---
 layout: post
 title: TV and Movies
-subtitle: Stuff that you might not have seen, is really great, and/or is worth a re-watching.
+subtitle: Shows that you might not have seen, are really great, and/or are worth a
+  re-watching.
 tags: lists
 
 ---
