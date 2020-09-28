@@ -1,14 +1,14 @@
 ---
 layout: post
 title: TV and Movies
-subtitle: Shows that you might not have seen, are really great, and/or are worth a
-  re-watching.
+subtitle: Stuff that you might not have seen, is really great, and/or is worth a re-watching.
 tags: lists
 
 ---
 ## TV
 
 * Corporate
+* Chewing Gum
 * The People vs. OJ Simpson
 * Succession
 * Jerk
@@ -31,7 +31,6 @@ tags: lists
 * The Boondocks
 * Beavis and Butthead
 * The Americans
-* Chewing Gum
 
 ## **Movies**
 
