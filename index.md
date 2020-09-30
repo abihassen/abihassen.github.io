@@ -25,9 +25,14 @@ I am particularly interested in exploring the the dynamic nature of institutions
 >
 > — Barbara Fields
 
-> _The most erroneous stories are those we think we know best – and therefore never scrutinize or question._
+> The most erroneous stories are those we think we know best – and therefore never scrutinize or question._
 >
 > — Stephen Jay Gould
+
+> Want of Science, that is, Ignorance of causes, disposeth, or rather constraineth a man to rely on the advise, and authority of others.
+>
+> — Thomas Hobbes
+
 
 ### Selected Media and Publications
 
