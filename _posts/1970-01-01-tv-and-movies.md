@@ -3,10 +3,12 @@ layout: post
 title: TV and Movies
 subtitle: Stuff that you might not have seen, is really great, and/or is worth a re-watching.
 tags: lists
+
 ---
 ## TV
 
 * Corporate
+* Chewing Gum
 * The People vs. OJ Simpson
 * Succession
 * Jerk
@@ -29,7 +31,6 @@ tags: lists
 * The Boondocks
 * Beavis and Butthead
 * The Americans
-* Chewing Gum
 
 ## **Movies**
 
@@ -46,10 +47,19 @@ tags: lists
 * They Live
 * Repo Man
 * Robocop
+* The Master
+* In the Mood for Love
+* Sonatine
+* Ed Wood
+* Tai Chi Master
+* Dr. Strangelove
 
-## **Creators**
+## **Completist Creators**
 
 * Adam Curtis
 * Armando Iannucci
 * Sharon Horgan
 * Chris Morris
+* Coen Brothers
+* Paul Verhoven
+* Jane Campion
