@@ -64,3 +64,4 @@ tags: lists
 * Paul Verhoven
 * Jane Campion
 * Werner Herzog
+* Sharon Horgan
