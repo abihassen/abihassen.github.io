@@ -11,7 +11,6 @@ tags: lists
 * Altemeyer, Bob — The Authoritarians
 * Althusser, Louis — On the Reproduction of Capitalism: Ideology and Ideological State Apparatuses
 * Althusser, Louis — For Marx
-* Althusser, Louis — \[Writings on Psychoanalysis: Freud and Lacan (European Perspectives: A Series in Social Thought and Cultural Criticism)\]
 * Anderson, Carol — White Rage: The Unspoken Truth of Our Racial Divide
 * Anderson, Philip W. — The Economy As An Evolving Complex System
 * Aquinas, Thomas — Compendium Theologiae
