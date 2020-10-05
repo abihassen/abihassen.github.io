@@ -9,16 +9,16 @@ tags: lists
 
 * Corporate
 * Chewing Gum
+* Succession
+* Jerk (BBC)
+* Pulling
 * The People vs. OJ Simpson
 * Top of the Lake
-* Succession
-* Jerk
 * Baskets
 * What We Do in the Shadows
 * The Boys
 * Atlanta
 * The Thick of it
-* Pulling
 * Garth Marenghi's Darkplace
 * Brass Eye
 * Mr. Show
