@@ -1,11 +1,11 @@
----
+  ---
 layout: default
 title: About Me
 
 ---
 <img class="profile-picture" src="{{site.baseurl}}/{{site.profile-picture}}">
 
-I am a political philosophy student, attorney, technologist, co-founder of [Black Movement-Law Project](http://bmlp.org), a legal support rapid response group that grew out of the uprisings in Ferguson, Baltimore, and elsewhere. I am currently a partner at [O’Neill and Hassen LLP](http://oandh.net), a law practice focused on indigent criminal defense. Prior to this current work, I was the Mass Defense Coordinator at the [National Lawyers Guild](http://nlg.org). I have also worked as a political campaign manager and strategist, union organizer, and community organizer. I conducts trainings, speaks, and writes on topics of race, technology, (in)justice, and the law.
+I am a political philosophy student, attorney, technologist, co-founder of [Black Movement-Law Project](http://bmlp.org), a legal support rapid response group that grew out of the uprisings in Ferguson, Baltimore, and elsewhere. I am currently a partner at [O’Neill and Hassen LLP](http://oandh.net), a law practice focused on indigent criminal defense. Prior to this current work, I was the Mass Defense Coordinator at the [National Lawyers Guild](http://nlg.org). I have also worked as a political campaign manager and strategist, union organizer, and community organizer.
 
 I am particularly interested in exploring the the dynamic nature of institutions, political movements, and their interactions from the perspective of Complex Systems studies.
 
