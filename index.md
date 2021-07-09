@@ -1,4 +1,4 @@
-  ---
+---
 layout: default
 title: About Me
 
@@ -13,10 +13,6 @@ I am particularly interested in exploring the the dynamic nature of institutions
 
 ### Some Quotes I Find Insightful
 
-> Tell no lies. Expose lies whenever they are told. Mask no difficulties, mistakes, failures. Claim no easy victories
->
-> ― Amilcar Cabral
-
 > To be a pessimist means that you have agreed that human life is an academic matter.
 >
 > — James Baldwin
@@ -29,13 +25,9 @@ I am particularly interested in exploring the the dynamic nature of institutions
 >
 > — Stephen Jay Gould
 
-> Want of Science, that is, Ignorance of causes, disposeth, or rather constraineth a man to rely on the advise, and authority of others.
->
-> — Thomas Hobbes
-
-
 ### Selected Media and Publications
 
+* [Interview with me on EFF's "How to Fix the Internet"](https://www.eff.org/deeplinks/2020/11/podcast-episode-your-face-their-database)
 * [Meet the EFA, Panel at HOPE 20, (video linked)](https://www.youtube.com/watch?v=XHSF9W70jOI)
 * [The Left Should Direct the Impeachment Effort, _Truthout.org_](https://truthout.org/articles/the-left-should-direct-the-impeachment-effort/)
 * [Mueller Investigation Will Set a Precedent — Make It a Good One, _Truthout.org_](https://truthout.org/articles/mueller-investigation-will-set-a-precedent-make-it-a-good-one/)
