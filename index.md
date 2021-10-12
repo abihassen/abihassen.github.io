@@ -1,6 +1,7 @@
 ---
 layout: default
 title: About Me
+published: false
 
 ---
 <img class="profile-picture" src="{{site.baseurl}}/{{site.profile-picture}}">
