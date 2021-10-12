@@ -7,7 +7,7 @@ title: About Me
 
 I am a political philosophy student, attorney, technologist, co-founder of [Black Movement-Law Project](http://bmlp.org), a legal support rapid response group that grew out of the uprisings in Ferguson, Baltimore, and elsewhere. I am currently a partner at [O’Neill and Hassen LLP](http://oandh.net), a law practice focused on indigent criminal defense. Prior to this current work, I was the Mass Defense Coordinator at the [National Lawyers Guild](http://nlg.org). I have also worked as a political campaign manager and strategist, union organizer, and community organizer.
 
-I am particularly interested in exploring the nature and potentials of movement organizing and the interface of political organizations and social movements with other complex systems (e.g. the law, capitalism, racism, climate). 
+I am particularly interested in exploring the nature and potentials of movement organizing and the interface of political organizations and social movements with other complex systems (e.g. the law, capitalism, racism, climate).
 
 [Downloadable Bio Here](https://docs.google.com/document/d/1u09CCKJB4Et4aWsmdw_G-HCut_2xIWmmk3LCCXXOxWo/export?format=pdf)
 
@@ -16,10 +16,6 @@ I am particularly interested in exploring the nature and potentials of movement 
 > To be a pessimist means that you have agreed that human life is an academic matter.
 >
 > — James Baldwin
-
-> Racism, in other words, is neither attitude nor bigotry nor prejudice. It is an act, and it is a repetition of the act of racism that makes race looks like a real entity.
->
-> — Barbara Fields
 
 > The most erroneous stories are those we think we know best – and therefore never scrutinize or question._
 >
