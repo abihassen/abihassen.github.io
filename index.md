@@ -21,6 +21,10 @@ I am particularly interested in exploring the nature and potentials of movement 
 >
 > — Stephen Jay Gould
 
+> We must practice revolutionary democracy.…Hide nothing from the masses of our people. Tell no lies. Expose lies whenever they are told. Mask no difficulties, mistakes, failures. Claim no easy victories…
+>
+> —Amilcar Cabral
+
 ### Selected Media and Publications
 
 * [Interview with me on EFF's "How to Fix the Internet"](https://www.eff.org/deeplinks/2020/11/podcast-episode-your-face-their-database)
