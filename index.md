@@ -11,7 +11,7 @@ I am particularly interested in exploring the nature and potentials of movement 
 
 [Downloadable Bio Here](https://docs.google.com/document/d/1u09CCKJB4Et4aWsmdw_G-HCut_2xIWmmk3LCCXXOxWo/export?format=pdf)
 
-### Some Quotes I Find Insightful
+### Some Quotes I Like
 
 > To be a pessimist means that you have agreed that human life is an academic matter.
 >
