@@ -17,7 +17,7 @@ I am particularly interested in exploring the nature and potentials of movement 
 >
 > — James Baldwin
 
-> The most erroneous stories are those we think we know best – and therefore never scrutinize or question._
+> The most erroneous stories are those we think we know best – and therefore never scrutinize or question.
 >
 > — Stephen Jay Gould
 
