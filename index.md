@@ -18,6 +18,7 @@ I am particularly interested in exploring the nature and potentials of movement 
 > — James Baldwin
 
 > Well, we’re barely a nation at all anymore, but I’m glad we’re still in space. We have to be going some place other than down the toilet.  
+>
 >  ― Octavia E. Butler, (Lauren) Parable of the Sower
 
 > The most erroneous stories are those we think we know best – and therefore never scrutinize or question.
