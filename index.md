@@ -5,7 +5,7 @@ title: About Me
 ---
 <img class="profile-picture" src="{{site.baseurl}}/{{site.profile-picture}}">
 
-I am a political philosophy student, attorney, technologist, and partner at [O’Neill and Hassen LLP](http://oandh.net), a law practice focused on indigent criminal defense. I am also co-founder of [Black Movement-Law Project](http://bmlp.org), a legal support rapid response group that grew out of the uprisings in Ferguson, Baltimore, and elsewhere. Formerly, I was Mass Defense Coordinator at the [National Lawyers Guild](http://nlg.org). I have also worked as a political campaign manager and strategist, union organizer, and community organizer.
+I am an attorney, political philosophy student, and partner at [O’Neill and Hassen LLP](http://oandh.net), a law practice focused on indigent criminal defense. I am also co-founder of [Black Movement-Law Project](http://bmlp.org), a legal support rapid response group that grew out of the uprisings in Ferguson, Baltimore, and elsewhere. Formerly, I was Mass Defense Coordinator at the [National Lawyers Guild](http://nlg.org). I have also worked as a political campaign manager and strategist, union organizer, and community organizer.
 
 I am particularly interested in exploring the nature and potentials of movement organizing and the interface of political organizations and social movements with other complex systems (e.g. the law, capitalism, racism, climate).
 
@@ -17,9 +17,9 @@ I am particularly interested in exploring the nature and potentials of movement 
 >
 > — James Baldwin
 
-> Well, we’re barely a nation at all anymore, but I’m glad we’re still in space. We have to be going some place other than down the toilet.  
+> Well, we’re barely a nation at all anymore, but I’m glad we’re still in space. We have to be going some place other than down the toilet.
 >
->  ― Octavia E. Butler, (Lauren) Parable of the Sower
+> ― Octavia E. Butler, (Lauren) Parable of the Sower
 
 > The most erroneous stories are those we think we know best – and therefore never scrutinize or question.
 >
