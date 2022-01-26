@@ -9,20 +9,17 @@ tags: lists
 
 * Corporate
 * Chewing Gum
-* Succession
 * Jerk (BBC)
 * Pulling
 * The People vs. OJ Simpson
 * Top of the Lake
 * Baskets
-* What We Do in the Shadows
-* The Boys
 * Atlanta
 * The Thick of it
 * Garth Marenghi's Darkplace
 * Brass Eye
 * Mr. Show
-* Dr Foster
+* Dr. Foster
 * Kath and Kim
 * I'm Alan Partridge
 * Knowing Me Knowing You
