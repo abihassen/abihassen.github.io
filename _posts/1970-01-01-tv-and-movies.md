@@ -1,7 +1,8 @@
 ---
 layout: post
 title: TV and Movies
-subtitle: Stuff that you might not have seen, is really great, and/or is worth a re-watching.
+subtitle: Stuff that you might not have seen, is really great, and is probably on
+  streaming.
 tags: lists
 
 ---
@@ -21,35 +22,27 @@ tags: lists
 * Mr. Show
 * Dr. Foster
 * Kath and Kim
+* Peep Show
 * I'm Alan Partridge
-* Knowing Me Knowing You
 * Taboo
 * The Boondocks
 * Beavis and Butthead
-* The Americans
 * Absolutely Fabulous
 
-## **Movies**
+## **Movies (+ 3 word review)**
 
-* The Lighthouse
-* Between Two Ferns: The Movie
-* Four Lions
-* In the Loop
-* Dead Man
-* The Witch
-* The Lobster
-* A Serious Man
-* Raising Arizona
-* The Hudsucker Proxy
-* They Live
-* Repo Man
-* Robocop
-* The Master
-* In the Mood for Love
-* Sonatine
-* Ed Wood
-* Tai Chi Master
-* Dr. Strangelove
+* The Lighthouse (old timey swears)
+* Four Lions (terrorism is funny)
+* In the Loop (Iraq War explained)
+* Dead Man (honest American Western)
+* The Witch (Mother hates thee)
+* A Serious Man (Best Coen Bros?)
+* They Live (It's Ideology damnit!)
+* Repo Man (more you drive ...)
+* Robocop (neoliberal dystopia today)
+* The Master (sublime face acting)
+* In the Mood for Love (the dresses alone)
+* A Woman Under the Influence (quotidian crushing life)
 
 ## **Completist Creators (watch it all)**
 
