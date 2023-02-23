@@ -7,7 +7,7 @@ title: About Me
 
 I am an attorney, technologist, writer and educator interested in the intersection of law, technology, identity, and organizing. Currently, I'm a partner at [O’Neill and Hassen LLP](http://oandh.net), a law practice focused on indigent criminal defense, and a co-founder of [Black Movement-Law Project](http://bmlp.org), a legal support rapid response group that grew out of the uprisings in Ferguson, Baltimore, and elsewhere. Formerly, I was Mass Defense Coordinator at the [National Lawyers Guild](http://nlg.org). I have also worked as a political campaign manager and strategist, union organizer, and community organizer.
 
-My research is centered on the practice and theory of organizing and the role of law as both catalyst and impediment. I aim to develop a holistic understanding of organizing that looks at the subject from multiple perspectives to interrogate issues of identity, moral philosophy, and social control in the context of building organizations for social change and surveying the horizon of political possibility.
+My research is centered on the interaction of race, technology, and law, and the practice and theory of organizing and the role of law as both catalyst and impediment. I aim to develop holistic understandings that looks at subjects from multiple perspectives to interrogate issues of identity, moral philosophy, and social control in the context of building organizations for social change and surveying the horizon of political possibility.
 
 [Downloadable Bio Here](https://docs.google.com/document/d/1u09CCKJB4Et4aWsmdw_G-HCut_2xIWmmk3LCCXXOxWo/export?format=pdf)
 
