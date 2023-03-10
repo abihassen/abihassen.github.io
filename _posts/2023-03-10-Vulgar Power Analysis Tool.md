@@ -3,7 +3,7 @@ layout: ''
 title: Power Analysis Tool
 subtitle: 'A diagram to help understand your movement''s, organization''s, and individual
   power. '
-tags: ''
+tags: Tools
 
 ---
 ![Tool for power analysis](/assets/tsi-3.png?width=20pc "POWER Mapping Tool")
