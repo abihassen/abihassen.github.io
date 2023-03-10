@@ -1,5 +1,5 @@
 ---
-layout: ''
+layout: post
 title: Power Analysis Tool
 subtitle: 'A diagram to help understand your movement''s, organization''s, and individual
   power. '
