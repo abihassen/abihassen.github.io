@@ -1,7 +1,8 @@
 ---
 layout: ''
-title: ''
-subtitle: ''
+title: Vulgar Power Analysis Tool
+subtitle: 'A diagram to help understand your movement''s, organization''s, and individual
+  power. '
 tags: ''
 
 ---
