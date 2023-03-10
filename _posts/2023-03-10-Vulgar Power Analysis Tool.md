@@ -6,7 +6,7 @@ subtitle: 'A diagram to help understand your movement''s, organization''s, and i
 tags: Tools
 
 ---
-![Power Analysis](<img src="/assets/tsi-3.png"/>)
+!\[Power Analysis\](<img src=/assets/tsi-3.png/>)
 
 This chart is meant to function as a tool for developing a power analysis to understand relative strength within a world of material forces. This is not directed toward creating an all-encompassing analysis of every kind of power, rather, it is a rough way to help orient around power within a complex world.
 
