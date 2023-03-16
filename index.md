@@ -30,7 +30,8 @@ My research is centered on the interaction of race, technology, and law, and the
 > —Amilcar Cabral
 
 ### Selected Media and Publications
-
+* [Vulgar Complexity II: Podcast with me and Derick Varn](https://youtu.be/vPGrqalbRlw)
+* [Vulgar Complexity I: Podcast with me and Derick Varn](https://youtu.be/pAYWQq-iuvo)
 * [Interview with me on EFF's "How to Fix the Internet"](https://www.eff.org/deeplinks/2020/11/podcast-episode-your-face-their-database)
 * [Meet the EFA, Panel at HOPE 20, (video linked)](https://www.youtube.com/watch?v=XHSF9W70jOI)
 * [The Left Should Direct the Impeachment Effort, _Truthout.org_](https://truthout.org/articles/the-left-should-direct-the-impeachment-effort/)
