@@ -21,7 +21,7 @@ My research is centered on the interaction of race, technology, and law, and the
 >
 > ― Octavia E. Butler, (Lauren) Parable of the Sower
 
-> The theorist who intervenes in practical controversies nowadays discovers on a regular basis and to his shame that whatever ideas he might contribute were expressed long ago -- and usually better the first time around 
+> The theorist who intervenes in practical controversies nowadays discovers on a regular basis and to his shame that whatever ideas he might contribute were expressed long ago—and usually better the first time around 
 >
 > - Theodor W. Adorno
 
