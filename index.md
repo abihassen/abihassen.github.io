@@ -21,17 +21,15 @@ My research is centered on the interaction of race, technology, and law, and the
 >
 > ― Octavia E. Butler, (Lauren) Parable of the Sower
 
-> The most erroneous stories are those we think we know best – and therefore never scrutinize or question.
+> The theorist who intervenes in practical controversies nowadays discovers on a regular basis and to his shame that whatever ideas he might contribute were expressed long ago -- and usually better the first time around 
 >
-> — Stephen Jay Gould
+> - Theodor W. Adorno
 
 > We must practice revolutionary democracy.…Hide nothing from the masses of our people. Tell no lies. Expose lies whenever they are told. Mask no difficulties, mistakes, failures. Claim no easy victories…
 >
-> —Amilcar Cabral
+> — Amilcar Cabral
 
 ### Selected Media and Publications
-* [Vulgar Complexity II: Podcast with me and Derick Varn](https://youtu.be/vPGrqalbRlw)
-* [Vulgar Complexity I: Podcast with me and Derick Varn](https://youtu.be/pAYWQq-iuvo)
 * [Interview with me on EFF's "How to Fix the Internet"](https://www.eff.org/deeplinks/2020/11/podcast-episode-your-face-their-database)
 * [Meet the EFA, Panel at HOPE 20, (video linked)](https://www.youtube.com/watch?v=XHSF9W70jOI)
 * [The Left Should Direct the Impeachment Effort, _Truthout.org_](https://truthout.org/articles/the-left-should-direct-the-impeachment-effort/)
