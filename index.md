@@ -12,7 +12,6 @@ My research focuses on the interplay between race, technology, and legal institu
 [Downloadable Bio Here](https://docs.google.com/document/d/1u09CCKJB4Et4aWsmdw_G-HCut_2xIWmmk3LCCXXOxWo/export?format=pdf)
 
 
-
 ### Some Quotes I Like
 
 > To be a pessimist means that you have agreed that human life is an academic matter.
@@ -25,7 +24,7 @@ My research focuses on the interplay between race, technology, and legal institu
 
 > The theorist who intervenes in practical controversies nowadays discovers on a regular basis and to his shame that whatever ideas he might contribute were expressed long ago—and usually better the first time around.
 >
-> - Theodor W. Adorno
+> - Theodor W. Adorno, Critical Models: Interventions and Catchwords
 
 > But man is not built around an inner thermometer, measuring the amount of pleasure or happiness, with a kind of permanent con­cern to maximise its readings: nor on the other hand is he a potential angel, fully gratified by living in some rational, humani­tarian order... Man is, instead, the prey of his Dark Gods.
 >
