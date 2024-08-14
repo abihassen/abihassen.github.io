@@ -5,11 +5,13 @@ title: About Me
 ---
 <img class="profile-picture" src="{{site.baseurl}}/{{site.profile-picture}}">
 
-I am an attorney and teacher interested in the intersection of law, technology, institutions, and organizing. I'm currently a visiting assistant professor of law at Penn State Dickinson Law where I'm teaching professional responsibility, trial advocacy and law in emergency (a seminar based on my research interests). I'm also apartner at [O’Neill and Hassen LLP](http://oandh.net), a law practice focused on indigent criminal defense, and a co-founder of [Black Movement-Law Project](http://bmlp.org), a legal support rapid response group that grew out of the uprisings in Ferguson, Baltimore, and elsewhere. Formerly, I was Mass Defense Coordinator at the [National Lawyers Guild](http://nlg.org). I have also worked as a political campaign manager and strategist, union organizer, and community organizer.
+I am an attorney and educator deeply interested in the complex dynamics that propagate between legal institutions and social movements in the context of periods (or eras) of crisis. Currently, I serve as a Visiting Assistant Professor of Law at [Penn State Dickinson Law](https://dickinsonlaw.psu.edu/abi-hassen), where I am currently teaching Professional Responsibility, Trial Advocacy, and "Law in Emergency," a seminar that delves into my research interests. Additionally, I am a partner at [O’Neill and Hassen LLP](http://oandh.net), a law firm dedicated to indigent criminal defense. I am also a former co-founder of the [Black Movement-Law Project](http://bmlp.org), a rapid legal response initiative that emerged in response to uprisings in places like Ferguson and Baltimore. Previously, I held the role of Mass Defense Coordinator at the National Lawyers Guild. My background also includes roles as a political campaign manager and strategist, a union and community organizer.
 
-My research is centered on the interaction of race, technology, and law, and the practice and theory of organizing and the role of law as both catalyst and impediment. I aim to develop holistic understandings that looks at subjects from multiple perspectives to interrogate issues of identity, moral philosophy, and social control in the context of building organizations for social change and surveying the horizon of political possibility.
+My research focuses on the interplay between race, technology, and legal institutions, alongside the practice and theory of social and political movements. I am committed to developing comprehensive insights that examine these topics from multiple angles, seeking to incorporate insights from political philosophy, legal theory, and history. My work aims to both challenge and understand the role of law as a tool for social change, while also considering its limitations, as I contribute to building effective organizations for societal transformation and exploring the landscape of political possibilities.
 
 [Downloadable Bio Here](https://docs.google.com/document/d/1u09CCKJB4Et4aWsmdw_G-HCut_2xIWmmk3LCCXXOxWo/export?format=pdf)
+
+
 
 ### Some Quotes I Like
 
