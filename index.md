@@ -18,6 +18,18 @@ My research focuses on the interplay between race, technology, and legal institu
 >
 > — James Baldwin
 
+> Pragmatism ... urges that humanity is an open-ended notion, that the word 'human' names a fuzzy but promising project rather than an essence.
+>
+> Richard Rorty, Philosophy and Social Hope
+
+> Like life, racial understanding is not something that we find but something that we must create. What we find when we enter these mortal plains is existence; but existence is the raw material out of which all life must be created.
+>
+> Rev. Martin Luther King Jr., Where Do We Go From Here: Chaos or Community
+
+> Man is not built around an inner thermometer, measuring the amount of pleasure or happiness, with a kind of permanent con­cern to maximise its readings: nor on the other hand is he a potential angel, fully gratified by living in some rational, humani­tarian order... Man is, instead, the prey of his Dark Gods.
+>
+> — Ernest Gellner, Thought and Change
+
 > Any intelligent bureaucracy will try to decrease possible resistance by emphasizing the merely temporary character of any imposed hardship even though it has no idea when the emergency will end and even if it knows that the new control, by its very existence and through the vested interests it creates, will tend to become permanent.
 >
 > — Ernst Fraenkel, The Dual State
@@ -31,9 +43,10 @@ it would be to wish the annihilation of air, which is essential to animal life, 
 >
 > — Theodor W. Adorno, Critical Models: Interventions and Catchwords
 
-> But man is not built around an inner thermometer, measuring the amount of pleasure or happiness, with a kind of permanent con­cern to maximise its readings: nor on the other hand is he a potential angel, fully gratified by living in some rational, humani­tarian order... Man is, instead, the prey of his Dark Gods.
+> The concept of a single, exclusive, and unchanging ethnic or cultural or other identity is a dangerous piece of brainwashing. Human mental identities are not like shoes, of  
+which we can only wear one pair at a time. We are all multi-dimensional beings. 
 >
-> — Ernest Gellner, Thought and Change
+> — Eric Hobsbawm, Language, Culture, and National Identity
 
 > The observer should not just practice a method that permits her to shift from one perspective to another.... She also needs a method to access a meta­ point of view on the diverse points of view, including her own point of view.
 >
@@ -42,11 +55,6 @@ it would be to wish the annihilation of air, which is essential to animal life, 
 > Well, we’re barely a nation at all anymore, but I’m glad we’re still in space. We have to be going some place other than down the toilet.
 >
 > — Octavia E. Butler, (Lauren) Parable of the Sower
-
->The concept of a single, exclusive, and unchanging ethnic or cultural or other identity is a dangerous piece of brainwashing. Human mental identities are not like shoes, of  
-which we can only wear one pair at a time. We are all multi-dimensional beings. 
->
-> — Eric Hobsbawm, Language, Culture, and National Identity
 
 ### Selected Media and Publications
 * [Interview with me on EFF's "How to Fix the Internet"](https://www.eff.org/deeplinks/2020/11/podcast-episode-your-face-their-database)
