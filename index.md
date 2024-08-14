@@ -19,17 +19,30 @@ My research focuses on the interplay between race, technology, and legal institu
 >
 > — James Baldwin
 
+> Any intelligent bureaucracy will try to decrease possible resistance by emphasizing the merely temporary character of any imposed hardship even though it has no idea when the emergency will end and even if it knows that the new control, by its very existence and through the vested interests it creates, will tend to become permanent.
+>
+> ― Ernst Fraenkel, The Dual State
+
+> The theorist who intervenes in practical controversies nowadays discovers on a regular basis and to his shame that whatever ideas he might contribute were expressed long ago—and usually better the first time around.
+>
+> - Theodor W. Adorno
+
+> But man is not built around an inner thermometer, measuring the amount of pleasure or happiness, with a kind of permanent con­cern to maximise its readings: nor on the other hand is he a potential angel, fully gratified by living in some rational, humani­tarian order... Man is, instead, the prey of his Dark Gods.
+>
+> — Ernest Gellner, Thought and Change
+
+> The observer should not just practice a method that permits her to shift from one perspective to another.... She also needs a method to access a meta­ point of view on the diverse points of view, including her own point of view.
+>
+> — Edgar Morin, On Complexity
+
 > Well, we’re barely a nation at all anymore, but I’m glad we’re still in space. We have to be going some place other than down the toilet.
 >
 > ― Octavia E. Butler, (Lauren) Parable of the Sower
 
-> The theorist who intervenes in practical controversies nowadays discovers on a regular basis and to his shame that whatever ideas he might contribute were expressed long ago—and usually better the first time around 
+>The concept of a single, exclusive, and unchanging ethnic or cultural or other identity is a dangerous piece of brainwashing. Human mental identities are not like shoes, of  
+which we can only wear one pair at a time. We are all multi-dimensional beings. 
 >
-> - Theodor W. Adorno
-
-> We must practice revolutionary democracy.…Hide nothing from the masses of our people. Tell no lies. Expose lies whenever they are told. Mask no difficulties, mistakes, failures. Claim no easy victories…
->
-> — Amilcar Cabral
+> - Eric Hobsbawm, Language, Culture, and National Identity
 
 ### Selected Media and Publications
 * [Interview with me on EFF's "How to Fix the Internet"](https://www.eff.org/deeplinks/2020/11/podcast-episode-your-face-their-database)
