@@ -20,11 +20,11 @@ My work focuses on the interplay between race, technology, and legal institution
 
 > Pragmatism ... urges that humanity is an open-ended notion, that the word 'human' names a fuzzy but promising project rather than an essence.
 >
-> Richard Rorty, Philosophy and Social Hope
+> — Richard Rorty, Philosophy and Social Hope
 
 > Like life, racial understanding is not something that we find but something that we must create. What we find when we enter these mortal plains is existence; but existence is the raw material out of which all life must be created.
 >
-> Rev. Martin Luther King Jr., Where Do We Go From Here: Chaos or Community
+> — Rev. Martin Luther King Jr., Where Do We Go From Here: Chaos or Community
 
 > Man is not built around an inner thermometer, measuring the amount of pleasure or happiness, with a kind of permanent con­cern to maximise its readings: nor on the other hand is he a potential angel, fully gratified by living in some rational, humani­tarian order... Man is, instead, the prey of his Dark Gods.
 >
