@@ -22,6 +22,11 @@ My research focuses on the interplay between race, technology, and legal institu
 >
 > ― Ernst Fraenkel, The Dual State
 
+> Liberty is to faction what air is to fire, an aliment without which it instantly expires. But it could not be less folly to abolish liberty, which is essential to political life, because it nourishes faction, than 
+it would be to wish the annihilation of air, which is essential to animal life, because it imparts to fire its destructive agency.
+>
+>  - James Madison, The Federalist 10
+
 > The theorist who intervenes in practical controversies nowadays discovers on a regular basis and to his shame that whatever ideas he might contribute were expressed long ago—and usually better the first time around.
 >
 > - Theodor W. Adorno, Critical Models: Interventions and Catchwords
