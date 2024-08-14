@@ -20,16 +20,16 @@ My research focuses on the interplay between race, technology, and legal institu
 
 > Any intelligent bureaucracy will try to decrease possible resistance by emphasizing the merely temporary character of any imposed hardship even though it has no idea when the emergency will end and even if it knows that the new control, by its very existence and through the vested interests it creates, will tend to become permanent.
 >
-> ― Ernst Fraenkel, The Dual State
+> — Ernst Fraenkel, The Dual State
 
 > Liberty is to faction what air is to fire, an aliment without which it instantly expires. But it could not be less folly to abolish liberty, which is essential to political life, because it nourishes faction, than 
 it would be to wish the annihilation of air, which is essential to animal life, because it imparts to fire its destructive agency.
 >
-> - James Madison, The Federalist 10
+> — James Madison, The Federalist 10
 
 > The theorist who intervenes in practical controversies nowadays discovers on a regular basis and to his shame that whatever ideas he might contribute were expressed long ago—and usually better the first time around.
 >
-> - Theodor W. Adorno, Critical Models: Interventions and Catchwords
+> — Theodor W. Adorno, Critical Models: Interventions and Catchwords
 
 > But man is not built around an inner thermometer, measuring the amount of pleasure or happiness, with a kind of permanent con­cern to maximise its readings: nor on the other hand is he a potential angel, fully gratified by living in some rational, humani­tarian order... Man is, instead, the prey of his Dark Gods.
 >
@@ -41,12 +41,12 @@ it would be to wish the annihilation of air, which is essential to animal life, 
 
 > Well, we’re barely a nation at all anymore, but I’m glad we’re still in space. We have to be going some place other than down the toilet.
 >
-> ― Octavia E. Butler, (Lauren) Parable of the Sower
+> — Octavia E. Butler, (Lauren) Parable of the Sower
 
 >The concept of a single, exclusive, and unchanging ethnic or cultural or other identity is a dangerous piece of brainwashing. Human mental identities are not like shoes, of  
 which we can only wear one pair at a time. We are all multi-dimensional beings. 
 >
-> - Eric Hobsbawm, Language, Culture, and National Identity
+> — Eric Hobsbawm, Language, Culture, and National Identity
 
 ### Selected Media and Publications
 * [Interview with me on EFF's "How to Fix the Internet"](https://www.eff.org/deeplinks/2020/11/podcast-episode-your-face-their-database)
